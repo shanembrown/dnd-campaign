@@ -1,15 +1,17 @@
 # Campaign Index
 
 ## Current Location
-- [The Lost Scar](locations/the-lost-scar.md)
+- [Hightower](locations/hightower.md)
 
 ## Current Goal
-- Find [Reif](npcs/reif.md) (directed by Klif)
+- Resting at Hightower with [Reif](npcs/reif.md)
 
 ## Locations
 - [The Groveborn](locations/the-groveborn.md)
   - [The Rootpath](locations/the-rootpath.md) - beneath the central tree
-- [The Lost Scar](locations/the-lost-scar.md) - last known location of the Cult of the Occulet
+- [Fangorne Mountain Overlook](locations/fangorne-mountain-overlook.md) - bandit encounter
+- [The Lost Scar](locations/the-lost-scar.md) - vast valley
+- [Hightower](locations/hightower.md) - tower where Reif was found
 
 ## Player Characters (Level 2)
 - [Raker](pcs/raker.md) - Druid
@@ -19,7 +21,7 @@
 
 ## NPCs
 - [Klif](npcs/klif.md) - ex-Ranger, estranged from The Grovekeeper
-- [Reif](npcs/reif.md) - current Ranger, being sought
+- [Reif](npcs/reif.md) - current Ranger, found at Hightower
 - [Sage Nightbloom](npcs/sage-nightbloom.md)
 - [The Grovekeeper](npcs/the-grovekeeper.md) - leader of the Rangers
 
