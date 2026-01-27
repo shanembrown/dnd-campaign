@@ -15,3 +15,5 @@
   - [The Grovekeeper](npcs/the-grovekeeper.md)
 - **Factions**
   - [Cult of the Occulet](factions/cult-of-the-occulet.md)
+- **Items**
+  - [Sigil of the Occulet](items/sigil-of-the-occulet.md)

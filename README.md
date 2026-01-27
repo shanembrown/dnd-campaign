@@ -27,5 +27,6 @@
 - [Cult of the Occulet](factions/cult-of-the-occulet.md) - enemies of The Groveborn
 
 ## Items
+- [Sigil of the Occulet](items/sigil-of-the-occulet.md)
 
 ## Sessions
