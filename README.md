@@ -24,9 +24,11 @@
 - [Reif](npcs/reif.md) - current Ranger, found at Hightower
 - [Sage Nightbloom](npcs/sage-nightbloom.md)
 - [The Grovekeeper](npcs/the-grovekeeper.md) - leader of the Rangers
+- [Eldrix Mortivar](npcs/eldrix-mortivar.md) - fallen Penance Crusader, dark necromancer (main antagonist)
 
 ## Factions
 - [Cult of the Occulet](factions/cult-of-the-occulet.md) - enemies of The Groveborn
+- [Penance Crusaders](factions/penance-crusaders.md) - order that Eldrix Mortivar fell from
 
 ## Items
 - [Sigil of the Occulet](items/sigil-of-the-occulet.md)

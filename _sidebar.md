@@ -15,7 +15,9 @@
   - [Reif](npcs/reif.md)
   - [Sage Nightbloom](npcs/sage-nightbloom.md)
   - [The Grovekeeper](npcs/the-grovekeeper.md)
+  - [Eldrix Mortivar](npcs/eldrix-mortivar.md)
 - **Factions**
   - [Cult of the Occulet](factions/cult-of-the-occulet.md)
+  - [Penance Crusaders](factions/penance-crusaders.md)
 - **Items**
   - [Sigil of the Occulet](items/sigil-of-the-occulet.md)
