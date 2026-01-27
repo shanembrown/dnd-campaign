@@ -1,16 +1,15 @@
 # The Lost Scar
 
 ## Description
-A vast valley with many small paths that branch off along the ridges. Higher elevations along the ridges lead into snow.
+A vast valley with many small paths that branch off along the ridges. Higher elevations along the ridges lead into snow. The scale of this place is immense - days of travel barely scratch the surface of its expanse.
 
 ## Features
-- Smoke visible along the ridgeline
-- A road along the ridge
+- Accessible via descent from [Fangorne Mountain Overlook](fangorne-mountain-overlook.md)
 
 ## Encounters
-- Bandits on the road (defeated) - bore the same markings as the [Sigil of the Occulet](../items/sigil-of-the-occulet.md)
+- The party traversed the valley, a grueling journey that depleted all their food supplies
 
 ## Significance
-Last known location where [Klif](../npcs/klif.md) saw the [Cult of the Occulet](../factions/cult-of-the-occulet.md).
+Where [Reif](../npcs/reif.md) is believed to be located.
 
 ## Notes

@@ -2,7 +2,9 @@
 - **Locations**
   - [The Groveborn](locations/the-groveborn.md)
   - [The Rootpath](locations/the-rootpath.md)
+  - [Fangorne Mountain Overlook](locations/fangorne-mountain-overlook.md)
   - [The Lost Scar](locations/the-lost-scar.md)
+  - [Hightower](locations/hightower.md)
 - **Player Characters**
   - [Raker](pcs/raker.md)
   - [Danior](pcs/danior.md)
