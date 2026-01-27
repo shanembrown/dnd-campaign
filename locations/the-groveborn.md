@@ -5,7 +5,7 @@
 
 ## Notable Features
 - A great tree at the center
-- [The Rootpath](the-rootpath.md) - beneath the central tree
+- [The Rootpath](/locations/the-rootpath.md) - beneath the central tree
 
 
 ## NPCs

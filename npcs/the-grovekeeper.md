@@ -7,6 +7,6 @@ Leader of the Rangers of [The Groveborn](../locations/the-groveborn.md).
 
 
 ## Actions
-- Removed [Klif](klif.md) from the Rangers
+- Removed [Klif](/npcs/klif.md) from the Rangers
 
 ## Notes

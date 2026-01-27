@@ -11,6 +11,6 @@ A tower beyond The Lost Scar.
 
 ## Significance
 Location of [Reif](../npcs/reif.md), the current Ranger.
-The party arrived here after a grueling journey through [The Lost Scar](the-lost-scar.md), with no food remaining.
+The party arrived here after a grueling journey through [The Lost Scar](/locations/the-lost-scar.md), with no food remaining.
 
 ## Notes
