@@ -1,8 +1,5 @@
 # Raker
 
-## Player
-Shane
-
 ## Class
 Druid
 
