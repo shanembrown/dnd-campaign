@@ -1,7 +1,7 @@
 # Campaign Index
 
 ## Current Location
-- [The Rootpath](locations/the-rootpath.md) (beneath [The Groveborn](locations/the-groveborn.md))
+- [The Lost Scar](locations/the-lost-scar.md)
 
 ## Current Goal
 - Find [Reif](npcs/reif.md) (directed by Klif)
