@@ -11,6 +11,7 @@
   - [Das](pcs/das.md)
   - [Hazik](pcs/hazik.md)
 - **NPCs**
+  - [Keeper Caelwyn Oakseeker](npcs/caelwyn-oakseeker.md)
   - [Klif](npcs/klif.md)
   - [Reif](npcs/reif.md)
   - [Sage Nightbloom](npcs/sage-nightbloom.md)

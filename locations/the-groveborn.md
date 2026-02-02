@@ -10,6 +10,7 @@
 
 
 ## NPCs
+- [Keeper Caelwyn Oakseeker](npcs/caelwyn-oakseeker.md) - leader of The Groveborn
 - [Sage Nightbloom](npcs/sage-nightbloom.md) - defender of The Groveborn
 
 ## History

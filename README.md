@@ -20,6 +20,7 @@
 - [Hazik](pcs/hazik.md) - Wizard
 
 ## NPCs
+- [Keeper Caelwyn Oakseeker](npcs/caelwyn-oakseeker.md) - leader of The Groveborn
 - [Klif](npcs/klif.md) - ex-Ranger, estranged from The Grovekeeper
 - [Reif](npcs/reif.md) - current Ranger, found at Hightower
 - [Sage Nightbloom](npcs/sage-nightbloom.md)
