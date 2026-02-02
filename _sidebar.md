@@ -6,6 +6,9 @@
   - [The Lost Scar](locations/the-lost-scar.md)
   - [Hightower](locations/hightower.md)
   - [Featherthorne Hollow](locations/featherthorne-hollow.md)
+  - [Wilden Reach](locations/wilden-reach.md)
+  - [Southern Wilden](locations/southern-wilden.md)
+  - [Wailing Tundra](locations/wailing-tundra.md)
 - **Player Characters**
   - [Raker](pcs/raker.md)
   - [Danior](pcs/danior.md)

@@ -4,7 +4,7 @@
 - [Hightower](locations/hightower.md)
 
 ## Current Goal
-- Continuing the adventure after resting at Hightower with [Reif](npcs/reif.md)
+- Investigate [Southern Wilden](locations/southern-wilden.md) at Reif's suggestion
 
 ## Locations
 - [The Groveborn](locations/the-groveborn.md)
@@ -13,6 +13,9 @@
 - [The Lost Scar](locations/the-lost-scar.md) - vast valley
 - [Hightower](locations/hightower.md) - tower where Reif was found
 - [Featherthorne Hollow](locations/featherthorne-hollow.md) - cave with necromancy (dark magic resurfacing)
+- [Wilden Reach](locations/wilden-reach.md) - edge of known lands
+  - [Southern Wilden](locations/southern-wilden.md) - Reif's suggested investigation
+- [Wailing Tundra](locations/wailing-tundra.md) - frozen expanse, dark magic reported
 
 ## Player Characters (Level 2)
 - [Raker](pcs/raker.md) - Druid
