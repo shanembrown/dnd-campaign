@@ -14,7 +14,7 @@
 - [Sage Nightbloom](npcs/sage-nightbloom.md) - defender of The Groveborn
 
 ## History
-Attacked by the [Circle of the Occult](factions/circle-of-the-occult.md), but the assault was repelled with the help of Sage Nightbloom.
+Attacked by the [Circle of the Occult](factions/circle-of-the-occult.md), but the assault was repelled with the help of Sage Nightbloom. Formed an alliance with the [Penance Crusaders](factions/penance-crusaders.md) to cleanse the Circle's dark magic.
 
 
 ## Notes

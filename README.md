@@ -12,6 +12,7 @@
 - [Fangorne Mountain Overlook](locations/fangorne-mountain-overlook.md) - Circle of the Occult camp
 - [The Lost Scar](locations/the-lost-scar.md) - vast valley
 - [Hightower](locations/hightower.md) - tower where Reif was found
+- [Featherthorne Hollow](locations/featherthorne-hollow.md) - cave with necromancy (dark magic resurfacing)
 
 ## Player Characters (Level 2)
 - [Raker](pcs/raker.md) - Druid

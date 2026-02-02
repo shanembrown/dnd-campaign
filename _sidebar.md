@@ -5,6 +5,7 @@
   - [Fangorne Mountain Overlook](locations/fangorne-mountain-overlook.md)
   - [The Lost Scar](locations/the-lost-scar.md)
   - [Hightower](locations/hightower.md)
+  - [Featherthorne Hollow](locations/featherthorne-hollow.md)
 - **Player Characters**
   - [Raker](pcs/raker.md)
   - [Danior](pcs/danior.md)
