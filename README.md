@@ -4,12 +4,12 @@
 - [Hightower](locations/hightower.md)
 
 ## Current Goal
-- Resting at Hightower with [Reif](npcs/reif.md)
+- Continuing the adventure after resting at Hightower with [Reif](npcs/reif.md)
 
 ## Locations
 - [The Groveborn](locations/the-groveborn.md)
   - [The Rootpath](locations/the-rootpath.md) - beneath the central tree
-- [Fangorne Mountain Overlook](locations/fangorne-mountain-overlook.md) - bandit encounter
+- [Fangorne Mountain Overlook](locations/fangorne-mountain-overlook.md) - Circle of the Occult camp
 - [The Lost Scar](locations/the-lost-scar.md) - vast valley
 - [Hightower](locations/hightower.md) - tower where Reif was found
 
@@ -23,14 +23,14 @@
 - [Klif](npcs/klif.md) - ex-Ranger, estranged from The Grovekeeper
 - [Reif](npcs/reif.md) - current Ranger, found at Hightower
 - [Sage Nightbloom](npcs/sage-nightbloom.md)
-- [The Grovekeeper](npcs/the-grovekeeper.md) - leader of the Rangers
+- [The Grovekeeper](npcs/the-grovekeeper.md) - leader of the Groveborn Rangers
 - [Eldrix Mortivar](npcs/eldrix-mortivar.md) - fallen Penance Crusader, dark necromancer (main antagonist)
 
 ## Factions
-- [Cult of the Occulet](factions/cult-of-the-occulet.md) - enemies of The Groveborn
+- [Circle of the Occult](factions/circle-of-the-occult.md) - enemies of The Groveborn
 - [Penance Crusaders](factions/penance-crusaders.md) - order that Eldrix Mortivar fell from
 
 ## Items
-- [Sigil of the Occulet](items/sigil-of-the-occulet.md)
+- [Sigil of the Occult](items/sigil-of-the-occult.md)
 
 ## Sessions

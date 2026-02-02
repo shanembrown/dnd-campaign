@@ -17,7 +17,7 @@
   - [The Grovekeeper](npcs/the-grovekeeper.md)
   - [Eldrix Mortivar](npcs/eldrix-mortivar.md)
 - **Factions**
-  - [Cult of the Occulet](factions/cult-of-the-occulet.md)
+  - [Circle of the Occult](factions/circle-of-the-occult.md)
   - [Penance Crusaders](factions/penance-crusaders.md)
 - **Items**
-  - [Sigil of the Occulet](items/sigil-of-the-occulet.md)
+  - [Sigil of the Occult](items/sigil-of-the-occult.md)

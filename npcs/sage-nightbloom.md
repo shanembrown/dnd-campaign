@@ -7,7 +7,7 @@ Defender of [The Groveborn](locations/the-groveborn.md)
 
 
 ## Background
-Fought against the [Cult of the Occulet](factions/cult-of-the-occulet.md) when they threatened The Groveborn.
+Fought against the [Circle of the Occult](factions/circle-of-the-occult.md) when they threatened The Groveborn.
 
 ## Relationship to Party
 Recently spoke with the party.

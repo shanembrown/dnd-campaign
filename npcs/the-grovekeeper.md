@@ -1,7 +1,7 @@
 # The Grovekeeper
 
 ## Role
-Leader of the Rangers of [The Groveborn](locations/the-groveborn.md).
+Leader of the Groveborn Rangers - the eyes and ears of [The Groveborn](locations/the-groveborn.md).
 
 ## Description
 

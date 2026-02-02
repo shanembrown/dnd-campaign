@@ -1,7 +1,7 @@
 # Hightower
 
 ## Description
-A tower beyond The Lost Scar.
+A tower in [The Lost Scar](locations/the-lost-scar.md).
 
 ## Features
 
@@ -11,6 +11,5 @@ A tower beyond The Lost Scar.
 
 ## Significance
 Location of [Reif](npcs/reif.md), the current Ranger.
-The party arrived here after a grueling journey through [The Lost Scar](locations/the-lost-scar.md), with no food remaining.
 
 ## Notes
