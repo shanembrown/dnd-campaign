@@ -29,6 +29,7 @@
 - [Reif](npcs/reif.md) - current Ranger, found at Hightower
 - [Sage Nightbloom](npcs/sage-nightbloom.md)
 - [The Grovekeeper](npcs/the-grovekeeper.md) - leader of the Groveborn Rangers
+- [Ranger Greenward](npcs/ranger-greenward.md) - Groveborn Ranger
 - [Eldrix Mortivar](npcs/eldrix-mortivar.md) - fallen Penance Crusader, dark necromancer (main antagonist)
 
 ## Factions

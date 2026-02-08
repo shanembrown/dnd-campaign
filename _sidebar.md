@@ -20,6 +20,7 @@
   - [Reif](npcs/reif.md)
   - [Sage Nightbloom](npcs/sage-nightbloom.md)
   - [The Grovekeeper](npcs/the-grovekeeper.md)
+  - [Ranger Greenward](npcs/ranger-greenward.md)
   - [Eldrix Mortivar](npcs/eldrix-mortivar.md)
 - **Factions**
   - [Circle of the Occult](factions/circle-of-the-occult.md)
