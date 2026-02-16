@@ -7,6 +7,6 @@ Leader of the Groveborn Rangers - the eyes and ears of [The Groveborn](locations
 
 
 ## Actions
-- Removed [Klif](npcs/klif.md) from the Rangers
+- Removed [Calef](npcs/calef.md) from the Rangers
 
 ## Notes

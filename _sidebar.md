@@ -16,7 +16,7 @@
   - [Hazik](pcs/hazik.md)
 - **NPCs**
   - [Keeper Caelwyn Oakseeker](npcs/caelwyn-oakseeker.md)
-  - [Klif](npcs/klif.md)
+  - [Calef](npcs/calef.md)
   - [Reif](npcs/reif.md)
   - [Sage Nightbloom](npcs/sage-nightbloom.md)
   - [The Grovekeeper](npcs/the-grovekeeper.md)
