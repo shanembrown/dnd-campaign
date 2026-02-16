@@ -17,4 +17,7 @@
 Attacked by the [Circle of the Occult](factions/circle-of-the-occult.md), but the assault was repelled with the help of Sage Nightbloom. Formed an alliance with the [Penance Crusaders](factions/penance-crusaders.md) to cleanse the Circle's dark magic.
 
 
+## Encounters
+- Party restocked provisions (food and clothing) here before departing south
+
 ## Notes

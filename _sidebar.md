@@ -8,7 +8,10 @@
   - [Featherthorne Hollow](locations/featherthorne-hollow.md)
   - [Wilden Reach](locations/wilden-reach.md)
   - [Southern Wilden](locations/southern-wilden.md)
+  - [Stagnant Swamp](locations/stagnant-swamp.md)
   - [Wailing Tundra](locations/wailing-tundra.md)
+  - [Skyreach Mountains](locations/skyreach-mountains.md)
+  - [Southreach](locations/southreach.md)
 - **Player Characters**
   - [Raker](pcs/raker.md)
   - [Danior](pcs/danior.md)
@@ -16,12 +19,17 @@
   - [Hazik](pcs/hazik.md)
 - **NPCs**
   - [Keeper Caelwyn Oakseeker](npcs/caelwyn-oakseeker.md)
+  - [The Shadow Baker](npcs/shadow-baker.md)
+  - [Clak](npcs/clak.md)
+  - [Saz](npcs/saz.md)
   - [Calef](npcs/calef.md)
   - [Reif](npcs/reif.md)
   - [Sage Nightbloom](npcs/sage-nightbloom.md)
   - [The Grovekeeper](npcs/the-grovekeeper.md)
   - [Ranger Greenward](npcs/ranger-greenward.md)
   - [Eldrix Mortivar](npcs/eldrix-mortivar.md)
+  - [Morwen](npcs/morwen.md)
+  - [Mister Scratch](npcs/mister-scratch.md)
 - **Factions**
   - [Circle of the Occult](factions/circle-of-the-occult.md)
   - [Penance Crusaders](factions/penance-crusaders.md)

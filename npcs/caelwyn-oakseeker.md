@@ -7,6 +7,6 @@ Leader of [The Groveborn](locations/the-groveborn.md).
 
 
 ## Connection to the Party
-Sent the party to seek out [Reif](npcs/reif.md) for help.
+Sent the party to seek out [Reif](npcs/reif.md) for help. Will send reports to [Ranger Greenward](npcs/ranger-greenward.md) to ensure he meets the party at [Southreach](locations/southreach.md) if they arrive.
 
 ## Notes

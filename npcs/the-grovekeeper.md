@@ -7,6 +7,6 @@ Leader of the Groveborn Rangers - the eyes and ears of [The Groveborn](locations
 
 
 ## Actions
-- Removed [Calef](npcs/calef.md) from the Rangers
+- Estranged from [Calef](npcs/calef.md), who left the Rangers voluntarily
 
 ## Notes

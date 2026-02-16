@@ -7,6 +7,7 @@ A subterranean area beneath the great tree at the center of [The Groveborn](loca
 
 
 ## NPCs
+- [The Shadow Baker](npcs/shadow-baker.md) - sells magical baked goods with whimsical effects
 
 
 ## Notes
