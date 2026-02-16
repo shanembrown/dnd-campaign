@@ -1,5 +1,7 @@
 # Campaign Index
 
+[View Wiki](https://shanembrown.github.io/dnd-campaign/)
+
 ## Current Location
 - [Stagnant Swamp](locations/stagnant-swamp.md)
 
