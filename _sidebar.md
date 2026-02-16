@@ -20,8 +20,7 @@
 - **NPCs**
   - [Keeper Caelwyn Oakseeker](npcs/caelwyn-oakseeker.md)
   - [The Shadow Baker](npcs/shadow-baker.md)
-  - [Clak](npcs/clak.md)
-  - [Saz](npcs/saz.md)
+  - [Clak and Saz](npcs/clak-and-saz.md)
   - [Calef](npcs/calef.md)
   - [Reif](npcs/reif.md)
   - [Sage Nightbloom](npcs/sage-nightbloom.md)

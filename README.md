@@ -31,8 +31,7 @@
 ## NPCs
 - [Keeper Caelwyn Oakseeker](npcs/caelwyn-oakseeker.md) - leader of The Groveborn
 - [The Shadow Baker](npcs/shadow-baker.md) - vendor in The Rootpath, sells magical baked goods
-- [Clak](npcs/clak.md) - met in The Rootpath
-- [Saz](npcs/saz.md) - met in The Rootpath, currently a frog
+- [Clak and Saz](npcs/clak-and-saz.md) - met in The Rootpath, Saz currently a frog
 - [Calef](npcs/calef.md) - ex-Ranger, estranged from The Grovekeeper
 - [Reif](npcs/reif.md) - current Ranger, found at Hightower
 - [Sage Nightbloom](npcs/sage-nightbloom.md)
