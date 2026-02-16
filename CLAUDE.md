@@ -22,8 +22,8 @@ A knowledge base for tracking an active D&D campaign, including:
 
 **Important**: All internal links must use absolute paths from the doc root:
 - `locations/the-groveborn.md` (correct)
-- `npcs/klif.md` (correct)
-- `../npcs/klif.md` (wrong - causes 404s)
+- `npcs/calef.md` (correct)
+- `../npcs/calef.md` (wrong - causes 404s)
 - `/locations/the-groveborn.md` (wrong - leading slash breaks links)
 
 ## Directory Structure
@@ -41,6 +41,18 @@ items/         # Notable items
 - **Party Level**: 2
 - **Party**: Raker (Druid), Danior (Cleric), Das (Fighter), Hazik (Wizard)
 - **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader, dark necromancer)
+- **Current Location**: Stagnant Swamp (Morwen's hut) — on long rest
+- **Current Goal**: Travel south through the Stagnant Swamp toward Southern Wilden
+
+## Recent Events
+
+- Party traveled from Hightower back to The Groveborn, then headed south
+- Met Calef (ex-Ranger) in The Rootpath — left Rangers voluntarily, won't guide party but shared route info (swamp is harder than mountains, path through mountains on the far side)
+- Met The Shadow Baker in The Rootpath — sells magical baked goods; donut turns eater into a frog (Saz), orange gillette held by Hazik (effect unknown)
+- Defeated Morwen the Hag in the Stagnant Swamp — confirmed Circle of the Occult member
+- Morwen's ritual used liquid to raise the dead as undead; same demonic magic as Featherthorne Hollow
+- Found Morwen's Recipe Book and colored liquids; known effects: 1/2 purple+green = grey ooze, 1/3 green+clear+red = acid, 1/3 purple+red+clear = no effect
+- Second Sigil of the Occult found at Morwen's hut
 
 ## Workflow
 
