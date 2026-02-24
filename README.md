@@ -3,10 +3,13 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- [Southreach](locations/southreach.md) - coastal fishing village at the southern tip of Wilden, speaking with Lightkeeper Istren Vale
+- [Wilden Reach](locations/wilden-reach.md) - inside a cultist outpost, just defeated Steam Mephits, taking a break
 
 ## Current Goal
 - Investigate [Southern Wilden](locations/southern-wilden.md) at Reif's suggestion
+
+## World
+- [Illium](locations/illium.md) - the world (archipelago)
 
 ## Locations
 - [The Groveborn](locations/the-groveborn.md)
@@ -21,6 +24,9 @@
 - [Wailing Tundra](locations/wailing-tundra.md) - frozen expanse, dark magic reported
 - [Skyreach Mountains](locations/skyreach-mountains.md) - south of the Wailing Tundra
 - [Southreach](locations/southreach.md) - desolate region, home of Ranger Greenward
+- [Wilden Isle](locations/wilden-isle.md) - small island off northeast Wilden
+- [Wilden Reach](locations/wilden-reach.md) - small island cluster southwest of Wilden
+- [Forden](locations/forden.md) - large island to the east
 
 ## Player Characters (Level 3)
 - [Raker](pcs/raker.md) - Druid

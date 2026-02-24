@@ -41,10 +41,21 @@ items/         # Notable items
 - **Party Level**: 3
 - **Party**: Raker (Druid), Danior (Cleric), Das (Fighter), Hazik (Wizard)
 - **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader, dark necromancer)
-- **Current Location**: Southreach — coastal fishing village at the southern tip of Wilden, speaking with Lightkeeper Istren Vale
+- **Current Location**: Wilden Reach — inside a cultist outpost on one of the jungle islands, just defeated Steam Mephits, taking a break (not a rest)
 - **Current Goal**: Travel south through the Stagnant Swamp toward Southern Wilden
 
-## Recent Events
+## Recent Events (current session)
+- Party leveled to 3; Raker chose Circle of the Land (Land's Aid variant)
+- Traveled south through Skyreach Mountains (fought spiders), arrived at Southreach
+- Met Lightkeeper Istren Vale (Order of the Sentinel Guards) — military arm of Penance Crusaders, has divine connection to a god of light
+- Found Ranger Greenward's hidden folio — observation notes on Wailing Tundra disturbances; "Strange disturbances. Need to talk with the Keeper."
+- Istren confirmed via prayer that Greenward is on a quest for good; lent party his boat
+- World revealed to be an archipelago called **Illium** — major islands: Wilden, Forden, Wailing Tundra (island), Wilden Isle, Wilden Reach
+- Sailed to Wilden Reach, found Greenward frightened and asking for help urgently
+- Discovered unexpected cultist outpost on jungle island — defeated cultists and 3 Steam Mephits
+- Currently inside the outpost, taking a break (no rest taken)
+
+## Previous Events
 
 - Party traveled from Hightower back to The Groveborn, then headed south
 - Met Calef (ex-Ranger) in The Rootpath — left Rangers voluntarily, won't guide party but shared route info (swamp is harder than mountains, path through mountains on the far side)

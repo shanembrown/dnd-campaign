@@ -1,7 +1,7 @@
 # Wailing Tundra
 
 ## Description
-A cold, unrelenting frozen expanse beyond [Wilden Reach](locations/wilden-reach.md). Believed to house no life.
+A separate island to the south of [Wilden](locations/the-groveborn.md) and [Forden](locations/forden.md), accessible by sea. A cold, unrelenting frozen expanse. Believed to house no life.
 
 ## Features
 - Only accessible by ship (a journey of many days)

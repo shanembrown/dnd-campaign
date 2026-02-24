@@ -1,5 +1,6 @@
 - [Home](README.md)
 - **Locations**
+  - [Illium](locations/illium.md) - world map
   - [The Groveborn](locations/the-groveborn.md)
   - [The Rootpath](locations/the-rootpath.md)
   - [Fangorne Mountain Overlook](locations/fangorne-mountain-overlook.md)
@@ -12,6 +13,9 @@
   - [Wailing Tundra](locations/wailing-tundra.md)
   - [Skyreach Mountains](locations/skyreach-mountains.md)
   - [Southreach](locations/southreach.md)
+  - [Wilden Isle](locations/wilden-isle.md)
+  - [Wilden Reach](locations/wilden-reach.md)
+  - [Forden](locations/forden.md)
 - **Player Characters**
   - [Raker](pcs/raker.md)
   - [Danior](pcs/danior.md)
