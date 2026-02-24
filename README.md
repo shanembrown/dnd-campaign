@@ -3,7 +3,7 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- [Stagnant Swamp](locations/stagnant-swamp.md)
+- [Southreach](locations/southreach.md) - coastal fishing village at the southern tip of Wilden, speaking with Lightkeeper Istren Vale
 
 ## Current Goal
 - Investigate [Southern Wilden](locations/southern-wilden.md) at Reif's suggestion
@@ -39,11 +39,13 @@
 - [Ranger Greenward](npcs/ranger-greenward.md) - Groveborn Ranger
 - [Eldrix Mortivar](npcs/eldrix-mortivar.md) - fallen Penance Crusader, dark necromancer (main antagonist)
 - [Morwen](npcs/morwen.md) - hag in the Stagnant Swamp
-- [Mister Scratch](npcs/mister-scratch.md) - Morwen's cat
+- [Mister Scratch](npcs/mister-scratch.md)
+- [Istren Vale](npcs/istren-vale.md) - Lightkeeper of the Order of the Sentinel Guards - Morwen's cat
 
 ## Factions
 - [Circle of the Occult](factions/circle-of-the-occult.md) - enemies of The Groveborn
 - [Penance Crusaders](factions/penance-crusaders.md) - order that Eldrix Mortivar fell from
+- [Order of the Sentinel Guards](factions/order-of-the-sentinel-guards.md) - order with historic ties to The Groveborn
 
 ## Items
 - [Sigil of the Occult](items/sigil-of-the-occult.md)

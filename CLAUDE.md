@@ -41,7 +41,7 @@ items/         # Notable items
 - **Party Level**: 3
 - **Party**: Raker (Druid), Danior (Cleric), Das (Fighter), Hazik (Wizard)
 - **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader, dark necromancer)
-- **Current Location**: Stagnant Swamp (Morwen's hut) — on long rest
+- **Current Location**: Southreach — coastal fishing village at the southern tip of Wilden, speaking with Lightkeeper Istren Vale
 - **Current Goal**: Travel south through the Stagnant Swamp toward Southern Wilden
 
 ## Recent Events

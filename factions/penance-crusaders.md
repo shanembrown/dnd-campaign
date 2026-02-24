@@ -11,6 +11,7 @@ A faction of crusaders who fight against dark magic.
 
 ## Alliances
 - Allied with [The Groveborn](locations/the-groveborn.md) to cleanse the dark magic of the [Circle of the Occult](factions/circle-of-the-occult.md)
+- [Order of the Sentinel Guards](factions/order-of-the-sentinel-guards.md) serves as their military arm
 
 ## Known Locations
 

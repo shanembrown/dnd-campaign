@@ -29,9 +29,11 @@
   - [Eldrix Mortivar](npcs/eldrix-mortivar.md)
   - [Morwen](npcs/morwen.md)
   - [Mister Scratch](npcs/mister-scratch.md)
+  - [Istren Vale](npcs/istren-vale.md)
 - **Factions**
   - [Circle of the Occult](factions/circle-of-the-occult.md)
   - [Penance Crusaders](factions/penance-crusaders.md)
+  - [Order of the Sentinel Guards](factions/order-of-the-sentinel-guards.md)
 - **Items**
   - [Sigil of the Occult](items/sigil-of-the-occult.md)
   - [Morwen's Recipe Book](items/morwen-recipe-book.md)

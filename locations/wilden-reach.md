@@ -1,15 +1,15 @@
 # Wilden Reach
 
 ## Description
-A region that extends to the edge of known lands. Beyond it lies the [Wailing Tundra](locations/wailing-tundra.md).
+A group of islands across the bay from [Southreach](locations/southreach.md). Beyond them, far to the south, lies the [Wailing Tundra](locations/wailing-tundra.md).
 
 ## Features
-- [Southern Wilden](locations/southern-wilden.md) is part of this area
+- Accessible by boat from Southreach
 
 ## Encounters
 
 
 ## Significance
-The boundary between familiar territory and the frozen unknown.
+The boundary between familiar territory and the unknown. [Ranger Greenward](npcs/ranger-greenward.md) recently borrowed a ship from a local fisherwoman in Southreach and headed here.
 
 ## Notes
