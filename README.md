@@ -22,7 +22,7 @@
 - [Skyreach Mountains](locations/skyreach-mountains.md) - south of the Wailing Tundra
 - [Southreach](locations/southreach.md) - desolate region, home of Ranger Greenward
 
-## Player Characters (Level 2)
+## Player Characters (Level 3)
 - [Raker](pcs/raker.md) - Druid
 - [Danior](pcs/danior.md) - Cleric
 - [Das](pcs/das.md) - Fighter

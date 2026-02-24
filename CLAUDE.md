@@ -38,7 +38,7 @@ items/         # Notable items
 
 ## Current Campaign State
 
-- **Party Level**: 2
+- **Party Level**: 3
 - **Party**: Raker (Druid), Danior (Cleric), Das (Fighter), Hazik (Wizard)
 - **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader, dark necromancer)
 - **Current Location**: Stagnant Swamp (Morwen's hut) — on long rest

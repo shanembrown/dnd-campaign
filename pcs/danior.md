@@ -4,7 +4,7 @@
 Cleric
 
 ## Level
-2
+3
 
 ## Background
 
