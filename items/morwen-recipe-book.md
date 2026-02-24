@@ -12,9 +12,9 @@ The following colored liquids were found adjacent to the book:
 | Recipe | Ingredients |
 |--------|-------------|
 | 1/3 | Green, Clear, Red | Acid |
-| 1/3 | Purple, Red, Clear | No effect |
+| 1/3 | Purple, Red, Clear | Healing potion |
 | 1/2 | Purple, Green | Grey ooze (hostile) |
-| 1/2 | Red, Clear |
-| 1/4 | Clear, Red, Purple, Green |
+| 1/2 | Red, Clear | +1 to attack for 1 hour |
+| 1/4 | Clear, Red, Purple, Green | Lethal poison — magic check confirmed deadly to anyone who drinks it |
 
 ## Notes
