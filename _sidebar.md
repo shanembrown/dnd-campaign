@@ -41,3 +41,4 @@
 - **Items**
   - [Sigil of the Occult](items/sigil-of-the-occult.md)
   - [Morwen's Recipe Book](items/morwen-recipe-book.md)
+  - [Medallion of Thoughts](items/medallion-of-thoughts.md)

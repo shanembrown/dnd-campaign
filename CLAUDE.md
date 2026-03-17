@@ -41,10 +41,22 @@ items/         # Notable items
 - **Party Level**: 3
 - **Party**: Raker (Druid), Danior (Cleric), Das (Fighter), Hazik (Wizard)
 - **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader, dark necromancer)
-- **Current Location**: Wilden Reach — inside a cultist outpost on one of the jungle islands, just defeated Steam Mephits, taking a break (not a rest)
+- **Current Location**: Wilden Reach Temple — battle just ended, Xellath captured, party needs rest badly
 - **Current Goal**: Travel south through the Stagnant Swamp toward Southern Wilden
 
 ## Recent Events (current session)
+- Explored the Wilden Reach Temple (cultist outpost) — symmetrical layout, two secret passages (passphrase: "Klaatu barada nikto")
+- Observed cultists performing a summoning incantation — same dark magic as Featherthorne Hollow
+- Ambushed a lone cultist; found Medallion of Thoughts in a chest (given to Danior)
+- Major battle: fought Xellath and Zaelar (named cultists), 2 cultists, 2 skeletons, and 2 Wights (summoned via ritual)
+- Hardest fight yet — Raker and Danior both went down; Raker nat-20'd a death save
+- Hazik critical Scorching Ray wiped 1 cultist + 2 skeletons in one turn
+- Zaelar killed; Xellath captured alive (knocked unconscious)
+- Party plans to interrogate Xellath using Medallion of Thoughts next session
+- Party is badly wounded — out of spell slots, Life Drain reduced max HP on Hazik and Danior
+
+## Previous Events
+
 - Party leveled to 3; Raker chose Circle of the Land (Land's Aid variant)
 - Traveled south through Skyreach Mountains (fought spiders), arrived at Southreach
 - Met Lightkeeper Istren Vale (Order of the Sentinel Guards) — military arm of Penance Crusaders, has divine connection to a god of light
@@ -53,10 +65,6 @@ items/         # Notable items
 - World revealed to be an archipelago called **Illium** — major islands: Wilden, Forden, Wailing Tundra (island), Wilden Isle, Wilden Reach
 - Sailed to Wilden Reach, found Greenward frightened and asking for help urgently
 - Discovered unexpected cultist outpost on jungle island — defeated cultists and 3 Steam Mephits
-- Currently inside the outpost, taking a break (no rest taken)
-
-## Previous Events
-
 - Party traveled from Hightower back to The Groveborn, then headed south
 - Met Calef (ex-Ranger) in The Rootpath — left Rangers voluntarily, won't guide party but shared route info (swamp is harder than mountains, path through mountains on the far side)
 - Met The Shadow Baker in The Rootpath — sells magical baked goods; donut turns eater into a frog (Saz), orange gillette held by Hazik (effect unknown)

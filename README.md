@@ -3,7 +3,7 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- [Wilden Reach](locations/wilden-reach.md) - inside a cultist outpost, just defeated Steam Mephits, taking a break
+- [Wilden Reach](locations/wilden-reach.md) - Wilden Reach Temple, post-battle, Xellath captured for interrogation
 
 ## Current Goal
 - Investigate [Southern Wilden](locations/southern-wilden.md) at Reif's suggestion
@@ -56,5 +56,6 @@
 ## Items
 - [Sigil of the Occult](items/sigil-of-the-occult.md)
 - [Morwen's Recipe Book](items/morwen-recipe-book.md) - spells/potions recipes and colored liquids
+- [Medallion of Thoughts](items/medallion-of-thoughts.md) - allows casting Detect Thoughts
 
 ## Sessions
