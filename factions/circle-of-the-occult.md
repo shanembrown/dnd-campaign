@@ -1,7 +1,7 @@
 # Circle of the Occult
 
 ## Overview
-Enemies of [The Groveborn](locations/the-groveborn.md). Practitioners of dark magic, including necromancy.
+Enemies of [The Groveborne](locations/the-groveborne.md). Practitioners of dark magic, including necromancy.
 
 ## Goals
 
@@ -21,6 +21,6 @@ Enemies of [The Groveborn](locations/the-groveborn.md). Practitioners of dark ma
 - [Wilden Reach](locations/wilden-reach.md) Temple — cultist outpost with summoning rituals, similar magic to Featherthorne Hollow
 
 ## History
-Attacked The Groveborn but were fought off by [Sage Nightbloom](npcs/sage-nightbloom.md) and others. Their dark magic was cleansed by an alliance between [The Groveborn](locations/the-groveborn.md) and the [Penance Crusaders](factions/penance-crusaders.md). However, this dark magic is now resurfacing.
+Attacked The Groveborne but were fought off by [Sage Nightbloom](npcs/sage-nightbloom.md) and others. Their dark magic was cleansed by an alliance between [The Groveborne](locations/the-groveborne.md) and the [Penance Crusaders](factions/penance-crusaders.md). However, this dark magic is now resurfacing.
 
 ## Notes

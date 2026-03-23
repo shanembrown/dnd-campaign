@@ -1,7 +1,7 @@
 # Keeper Caelwyn Oakseeker
 
 ## Role
-Leader of [The Groveborn](locations/the-groveborn.md).
+Leader of [The Groveborne](locations/the-groveborne.md).
 
 ## Description
 

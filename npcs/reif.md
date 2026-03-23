@@ -4,7 +4,7 @@
 Found by the party at Hightower.
 
 ## Description
-Current Ranger of [The Groveborn](locations/the-groveborn.md). 130 years old.
+Current Ranger of [The Groveborne](locations/the-groveborne.md). 130 years old.
 
 ## Location
 [Hightower](locations/hightower.md)

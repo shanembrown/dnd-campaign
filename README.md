@@ -3,16 +3,18 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- [Wilden Reach](locations/wilden-reach.md) - Wilden Reach Temple, post-battle, Xellath captured for interrogation
+- [The Groveborne](locations/the-groveborne.md) - resting, awaiting arrival of [Finn and Creel](npcs/finn-and-creel.md)
 
 ## Current Goal
-- Investigate [Southern Wilden](locations/southern-wilden.md) at Reif's suggestion
+- Await Finn and Creel to investigate the [telepathy rings](items/telepathy-rings.md)
+- Potentially mend the rift between The Groveborne and the [Penance Crusaders](factions/penance-crusaders.md)
+- Find a way to read/understand Abyssal
 
 ## World
 - [Illium](locations/illium.md) - the world (archipelago)
 
 ## Locations
-- [The Groveborn](locations/the-groveborn.md)
+- [The Groveborne](locations/the-groveborne.md)
   - [The Rootpath](locations/the-rootpath.md) - beneath the central tree
 - [Fangorne Mountain Overlook](locations/fangorne-mountain-overlook.md) - Circle of the Occult camp
 - [The Lost Scar](locations/the-lost-scar.md) - vast valley
@@ -26,7 +28,8 @@
 - [Southreach](locations/southreach.md) - desolate region, home of Ranger Greenward
 - [Wilden Isle](locations/wilden-isle.md) - small island off northeast Wilden
 - [Wilden Reach](locations/wilden-reach.md) - small island cluster southwest of Wilden
-- [Forden](locations/forden.md) - large island to the east
+- [Forden](locations/forden.md) - large island to the east, Penance Crusaders capital
+- [Crusader Keep](locations/crusader-keep.md) - Penance Crusaders stronghold in Wilden
 
 ## Player Characters (Level 3)
 - [Raker](pcs/raker.md) - Druid
@@ -35,27 +38,30 @@
 - [Hazik](pcs/hazik.md) - Wizard
 
 ## NPCs
-- [Keeper Caelwyn Oakseeker](npcs/caelwyn-oakseeker.md) - leader of The Groveborn
+- [Keeper Caelwyn Oakseeker](npcs/caelwyn-oakseeker.md) - leader of The Groveborne
 - [The Shadow Baker](npcs/shadow-baker.md) - vendor in The Rootpath, sells magical baked goods
-- [Clak and Saz](npcs/clak-and-saz.md) - met in The Rootpath, Saz currently a frog
+- [Clak and Saz](npcs/clak-and-saz.md) - met in The Rootpath
 - [Calef](npcs/calef.md) - ex-Ranger, estranged from The Grovekeeper
 - [Reif](npcs/reif.md) - current Ranger, found at Hightower
-- [Sage Nightbloom](npcs/sage-nightbloom.md)
-- [The Grovekeeper](npcs/the-grovekeeper.md) - leader of the Groveborn Rangers
-- [Ranger Greenward](npcs/ranger-greenward.md) - Groveborn Ranger
+- [Sage Nightbloom](npcs/sage-nightbloom.md) - botanist of The Groveborne
+- [The Grovekeeper](npcs/the-grovekeeper.md) - leader of the Groveborne Rangers
+- [Ranger Greenward](npcs/ranger-greenward.md) - Groveborne Ranger, traveling with party
 - [Eldrix Mortivar](npcs/eldrix-mortivar.md) - fallen Penance Crusader, dark necromancer (main antagonist)
 - [Morwen](npcs/morwen.md) - hag in the Stagnant Swamp
-- [Mister Scratch](npcs/mister-scratch.md)
-- [Istren Vale](npcs/istren-vale.md) - Lightkeeper of the Order of the Sentinel Guards - Morwen's cat
+- [Mister Scratch](npcs/mister-scratch.md) - Morwen's cat
+- [Istren Vale](npcs/istren-vale.md) - Lightkeeper of the Order of the Sentinel Guards
+- [Xellath](npcs/xellath.md) - cultist, interrogated and killed himself
+- [Finn and Creel](npcs/finn-and-creel.md) - Groveborne Rangers, summoned by the Keeper
 
 ## Factions
-- [Circle of the Occult](factions/circle-of-the-occult.md) - enemies of The Groveborn
+- [Circle of the Occult](factions/circle-of-the-occult.md) - enemies of The Groveborne
 - [Penance Crusaders](factions/penance-crusaders.md) - order that Eldrix Mortivar fell from
-- [Order of the Sentinel Guards](factions/order-of-the-sentinel-guards.md) - order with historic ties to The Groveborn
+- [Order of the Sentinel Guards](factions/order-of-the-sentinel-guards.md) - order with historic ties to The Groveborne
 
 ## Items
 - [Sigil of the Occult](items/sigil-of-the-occult.md)
 - [Morwen's Recipe Book](items/morwen-recipe-book.md) - spells/potions recipes and colored liquids
 - [Medallion of Thoughts](items/medallion-of-thoughts.md) - allows casting Detect Thoughts
+- [Telepathy Rings](items/telepathy-rings.md) - cultist communication network (party has 2 of 8)
 
 ## Sessions

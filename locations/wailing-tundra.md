@@ -1,7 +1,7 @@
 # Wailing Tundra
 
 ## Description
-A separate island to the south of [Wilden](locations/the-groveborn.md) and [Forden](locations/forden.md), accessible by sea. A cold, unrelenting frozen expanse. Believed to house no life.
+A separate island to the south of [Wilden](locations/the-groveborne.md) and [Forden](locations/forden.md), accessible by sea. A cold, unrelenting frozen expanse. Believed to house no life.
 
 ## Features
 - Only accessible by ship (a journey of many days)
@@ -12,6 +12,6 @@ A separate island to the south of [Wilden](locations/the-groveborn.md) and [Ford
 
 
 ## Significance
-Groveborn Rangers are reporting dark, foul magic emanating from this region - possibly connected to the resurgence of the [Circle of the Occult](factions/circle-of-the-occult.md)'s necromancy.
+Groveborne Rangers are reporting dark, foul magic emanating from this region - possibly connected to the resurgence of the [Circle of the Occult](factions/circle-of-the-occult.md)'s necromancy.
 
 ## Notes

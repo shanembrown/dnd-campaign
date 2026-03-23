@@ -1,7 +1,7 @@
 - [Home](README.md)
 - **Locations**
   - [Illium](locations/illium.md) - world map
-  - [The Groveborn](locations/the-groveborn.md)
+  - [The Groveborne](locations/the-groveborne.md)
   - [The Rootpath](locations/the-rootpath.md)
   - [Fangorne Mountain Overlook](locations/fangorne-mountain-overlook.md)
   - [The Lost Scar](locations/the-lost-scar.md)
@@ -16,6 +16,7 @@
   - [Wilden Isle](locations/wilden-isle.md)
   - [Wilden Reach](locations/wilden-reach.md)
   - [Forden](locations/forden.md)
+  - [Crusader Keep](locations/crusader-keep.md)
 - **Player Characters**
   - [Raker](pcs/raker.md)
   - [Danior](pcs/danior.md)
@@ -34,6 +35,8 @@
   - [Morwen](npcs/morwen.md)
   - [Mister Scratch](npcs/mister-scratch.md)
   - [Istren Vale](npcs/istren-vale.md)
+  - [Xellath](npcs/xellath.md)
+  - [Finn and Creel](npcs/finn-and-creel.md)
 - **Factions**
   - [Circle of the Occult](factions/circle-of-the-occult.md)
   - [Penance Crusaders](factions/penance-crusaders.md)
@@ -42,3 +45,4 @@
   - [Sigil of the Occult](items/sigil-of-the-occult.md)
   - [Morwen's Recipe Book](items/morwen-recipe-book.md)
   - [Medallion of Thoughts](items/medallion-of-thoughts.md)
+  - [Telepathy Rings](items/telepathy-rings.md)

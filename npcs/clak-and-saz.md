@@ -1,7 +1,7 @@
 # Clak and Saz
 
 ## Status
-Met by the party in [The Rootpath](locations/the-rootpath.md). Appear to be bystanders. Saz is currently a frog after eating a donut purchased from [The Shadow Baker](npcs/shadow-baker.md).
+Encountered again by the party in [The Rootpath](locations/the-rootpath.md). Still upset about the frog incident.
 
 ## Description
 
@@ -10,6 +10,7 @@ Met by the party in [The Rootpath](locations/the-rootpath.md). Appear to be byst
 [The Rootpath](locations/the-rootpath.md)
 
 ## Connection to the Party
-Encountered in the deeper reaches of [The Rootpath](locations/the-rootpath.md). Raker offered Saz a donut, which transformed him into a frog upon eating it.
+Encountered in the deeper reaches of [The Rootpath](locations/the-rootpath.md). Raker offered Saz a donut, which transformed him into a frog upon eating it. On the party's return through The Rootpath, Clak and Saz got payback — smacked Raker on the back of the head and force-fed Das an Elfpanada, turning him into a frog. Hazik retaliated by casting Misty Step, force-feeding Saz an Elfpanada that caused uncontrollable laughter, and they decided to leave the party alone.
 
 ## Notes
+- All [Shadow Baker](npcs/shadow-baker.md) treat effects are temporary and wear off

@@ -1,7 +1,7 @@
 # Stagnant Swamp
 
 ## Description
-A murky, boggy swamp south of [The Groveborn](locations/the-groveborn.md). The ground is wet and unstable, and the air carries the smell of stale, rotting bog. The forest thins as the terrain transitions from dense woodland into the swamp.
+A murky, boggy swamp south of [The Groveborne](locations/the-groveborne.md). The ground is wet and unstable, and the air carries the smell of stale, rotting bog. The forest thins as the terrain transitions from dense woodland into the swamp.
 
 ## Features
 
