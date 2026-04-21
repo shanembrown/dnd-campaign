@@ -18,6 +18,7 @@
   - [Forden](locations/forden.md)
   - [Crusivar](locations/crusivar.md)
   - [Crusader Keep](locations/crusader-keep.md)
+  - [Wicks Hollow](locations/wicks-hollow.md)
 - **Player Characters**
   - [Raker](pcs/raker.md)
   - [Danior](pcs/danior.md)

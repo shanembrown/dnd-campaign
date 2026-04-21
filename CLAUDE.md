@@ -41,9 +41,10 @@ items/         # Notable items
 - **Party Level**: 3
 - **Party**: Raker (Druid), Danior (Cleric), Das (Fighter), Hazik (Wizard)
 - **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader, dark necromancer)
-- **Current Location**: The Groveborne — preparing to depart for Forden
-- **Current Goal**: Travel to Crusivar on Forden to meet Bael Threnfall and propose reforging the Groveborne-Crusader alliance; learn Abyssal
-- **Companion**: Ranger Greenward (traveling with party); Finn (escorting to Forden)
+- **Current Location**: Near Wicks Hollow, SE Wilden — camped off the road, long rest
+- **Current Goal**: Travel to Crusivar on Forden to meet Bael Threnfall and propose reforging alliance; learn Abyssal
+- **Companion**: Ranger Greenward (traveling with party)
+- **Finn is dead** — killed by a wounded Crusader rider near Wicks Hollow; wisp message never sent; Groveborne is in the dark
 
 ## Recent Events (current session)
 - **Ranger Assembly in the Heart Chamber** (up in the central tree of The Groveborne)
@@ -61,6 +62,19 @@ items/         # Notable items
 - Rangers voted unanimously to send the party to Crusivar on Forden to propose reforging the alliance with Bael Threnfall (son of deceased Vael Threnfall)
 - Keeper gave party a broken silver coin — her half, broken with Vael after the 100 Year War
 - Finn assigned to escort party to Forden (not into the capital)
+
+### Journey to Forden
+- Party departed The Groveborne heading SE with Finn as escort
+- Finn is Creel's sister — young, bubbly, naive; polar opposite of Creel
+- Discovered **Wicks Hollow** — village abruptly abandoned ~2 days ago; food on plates, fires lit; animals confirmed all humans left at the exact same time
+- Suspected Circle of the Occult using The Hollowing for mass mind control to raise an army
+- Camped off the road near Wicks Hollow; a wounded armored Crusader rider arrived on horseback at night
+- Danior stabilized rider with Healing Word, used Medallion of Thoughts to read his mind
+- Rider's thoughts: betrayed by fellow Penance Crusaders, seeking the Keeper, Istren Vale is dead (killed in the same betrayal), desperate and at peace with dying
+- Rider stabbed and killed Finn upon recognizing her — saw her as a traitor due to her secret affair with Halden Vayer (a Crusader)
+- Finn's wisp network message never sent — Groveborne doesn't know about any of this
+- Party plans to bury Finn and the rider in the morning
+- Session ended with party taking a long rest near Wicks Hollow
 - Traded plants with Sage Nightbloom (botanist) for potions
 - Consulted Keeper Caelwyn Oakseeker: Crusaders once friends but now too zealous; they understand Abyssal best; party could mediate as outsiders
 - Crusader Keep is the only Penance Crusaders stronghold in Wilden; their capital is on Forden

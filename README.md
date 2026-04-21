@@ -3,12 +3,13 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- [The Groveborne](locations/the-groveborne.md) — preparing to depart for [Forden](locations/forden.md)
+- Near [Wicks Hollow](locations/wicks-hollow.md) — southeastern Wilden, camped off the road overnight
 
 ## Current Goal
 - Travel to [Crusivar](locations/crusivar.md) on [Forden](locations/forden.md) to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the Groveborne-Crusader alliance
 - Carry the [Broken Silver Coin](items/broken-silver-coin.md) as proof of mission
-- [Finn](npcs/finn-and-creel.md) escorting the party to Forden
+- Finn is dead — party has lost their escort and must decide whether to press forward or return to the Groveborne
+- The Groveborne does not know about Wicks Hollow, Finn's death, Istren's death, or the Crusader betrayal
 - Find a way to read/understand Abyssal
 
 ## World
@@ -32,6 +33,7 @@
 - [Forden](locations/forden.md) - large island to the east, Penance Crusaders homeland
 - [Crusivar](locations/crusivar.md) - Penance Crusaders capital city on Forden
 - [Crusader Keep](locations/crusader-keep.md) - Penance Crusaders stronghold in Wilden
+- [Wicks Hollow](locations/wicks-hollow.md) - abandoned village, SE Wilden
 
 ## Player Characters (Level 3)
 - [Raker](pcs/raker.md) - Druid

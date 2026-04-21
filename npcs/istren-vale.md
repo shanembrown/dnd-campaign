@@ -1,10 +1,13 @@
 # Istren Vale
 
+## Status
+**Deceased** — killed in a betrayal by fellow [Penance Crusaders](factions/penance-crusaders.md). Was traveling with a Crusader rider (a friend) when they were both attacked. Istren did not survive; the rider barely escaped.
+
 ## Title
 Lightkeeper (title given by the [Order of the Sentinel Guards](factions/order-of-the-sentinel-guards.md))
 
 ## Location
-[Southreach](locations/southreach.md)
+Deceased (formerly [Southreach](locations/southreach.md))
 
 ## Notes
 - Has witnessed monstrosities in the [Wailing Tundra](locations/wailing-tundra.md)
