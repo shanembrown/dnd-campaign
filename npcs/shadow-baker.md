@@ -17,6 +17,7 @@ Magical baked goods with unique whimsical outcomes. All effects are temporary an
 | Donut | Transforms the eater into a frog (temporary) |
 | Elfpanada | Varies — known effects: uncontrollable laughter, transforms into a frog |
 | Empanada (3-pack) | Each has a different effect: 1) insatiable hunger for 1 hour, 2) uncontrollable defecation for 1 hour, 3) instant death. Effects are randomized — unknown which is which without testing. Detected as made from "leftover ingredients" via Detect Magic. |
+| Galette | Effect unknown — each party member given one for the journey to [Forden](locations/forden.md) |
 
 ## Connection to the Party
 Encountered multiple times in [The Rootpath](locations/the-rootpath.md). Party purchased various treats including Elfpanadas and a 3-pack of empanadas.
