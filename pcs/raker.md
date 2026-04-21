@@ -10,7 +10,7 @@ Halfling
 3
 
 ## Background
-Criminal
+Criminal — orphaned young, Raker turned to a life of petty crime out of necessity rather than malice. Despite looking like a child (halfling), he's actually fairly old. As he aged he left that life behind, seeking simplicity and eventually finding his path as a Druid.
 
 ## Stats
 - STR 12, DEX 16, CON 14, INT 8, WIS 15, CHA 10
