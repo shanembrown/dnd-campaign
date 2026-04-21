@@ -16,6 +16,7 @@
   - [Wilden Isle](locations/wilden-isle.md)
   - [Wilden Reach](locations/wilden-reach.md)
   - [Forden](locations/forden.md)
+  - [Crusivar](locations/crusivar.md)
   - [Crusader Keep](locations/crusader-keep.md)
 - **Player Characters**
   - [Raker](pcs/raker.md)
@@ -37,6 +38,8 @@
   - [Istren Vale](npcs/istren-vale.md)
   - [Xellath](npcs/xellath.md)
   - [Finn and Creel](npcs/finn-and-creel.md)
+  - [Bael Threnfall](npcs/bael-threnfall.md)
+  - [Klif](npcs/klif.md)
 - **Factions**
   - [Circle of the Occult](factions/circle-of-the-occult.md)
   - [Penance Crusaders](factions/penance-crusaders.md)
@@ -46,3 +49,5 @@
   - [Morwen's Recipe Book](items/morwen-recipe-book.md)
   - [Medallion of Thoughts](items/medallion-of-thoughts.md)
   - [Telepathy Rings](items/telepathy-rings.md)
+  - [Broken Silver Coin](items/broken-silver-coin.md)
+  - [Black Iron Nail](items/black-iron-nail.md)

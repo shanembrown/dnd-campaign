@@ -41,22 +41,26 @@ items/         # Notable items
 - **Party Level**: 3
 - **Party**: Raker (Druid), Danior (Cleric), Das (Fighter), Hazik (Wizard)
 - **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader, dark necromancer)
-- **Current Location**: The Groveborne — resting, awaiting Finn and Creel
-- **Current Goal**: Investigate telepathy rings with Finn and Creel; potentially mend rift between Groveborne and Penance Crusaders; learn Abyssal
-- **Companion**: Ranger Greenward (traveling with party)
+- **Current Location**: The Groveborne — preparing to depart for Forden
+- **Current Goal**: Travel to Crusivar on Forden to meet Bael Threnfall and propose reforging the Groveborne-Crusader alliance; learn Abyssal
+- **Companion**: Ranger Greenward (traveling with party); Finn (escorting to Forden)
 
 ## Recent Events (current session)
-- Interrogated Xellath — referenced "the one who oversees all" (likely Eldrix Mortivar), killed himself via incantation when asked where he came from
-- Found Abyssal inscription on Xellath — Istren Vale destroyed it (zealotry, not malice)
-- Discovered telepathy rings — cultist communication network. Hazik wore one: heard cacophony of voices in unknown language, entered trance state. Can isolate individual voices but can't understand the language.
-- Ring knocked Greenward unconscious — divinity stone (touched to chest) revived him and others
-- Found altar behind summoning ritual — central skull (sigils placed in eye sockets, table glowed green), 4 colored skulls (blue, green, red, black). Needs 8 rings total; party has 2.
-- Hazik arcana check: altar is very dark magic. Party chose to return later with all 8 rings.
-- Fought additional cultist + 2 skeletons on the way out of the temple
-- Returned to Southreach — Istren Vale seemed "off," insisted party travel with him to Crusader Keep
-- Long rested at Southreach, then headed to The Groveborne (Greenward guided safely, no encounters)
-- Re-encountered Clak and Saz in The Rootpath — payback for the frog incident: smacked Raker, turned Das into a frog via Elfpanada. Hazik retaliated with Misty Step + force-fed Saz an Elfpanada causing uncontrollable laughter.
-- Purchased treats from the Shadow Baker: 3 empanadas (1 = hunger for 1 hr, 1 = sickness for 1 hr, 1 = instant death; unknown which is which)
+- **Ranger Assembly in the Heart Chamber** (up in the central tree of The Groveborne)
+- Keeper Caelwyn convened Rangers: Finn, Creel, Reif, Sage Nightbloom, Klif (attended despite falling out with Groveborne)
+- Party presented summary of cultist findings to the assembly
+- **Field Reports**:
+  - Sage: 6 dark ships off northern Wilden Isle (no flags), old tower re-lit with cold blue light on moonless nights, 3 informants gone silent
+  - Reif: Fangorn Pass unusually quiet, ridgeline fires (Circle of the Occult), new spiral stone shrine at The Lost Scar on charred black earth (radiates dread), suspicious traveler "Pel" left Hightower at night toward unsafe territory
+  - Finn: Crusaders tripled patrols, daily military drills, 3 patrols failed to return (official excuse: "banditry" — Finn doesn't buy it)
+  - Creel: "Nothing new in Northern Forden" — suspiciously thin given dark ships heading his way
+  - Klif called out Creel; party sensed deeper rift between them
+- Greenward reported: ancient shrine of crowned female figure with gouged bleeding eyes (older than the temple, recently cleared of overgrowth); presented a black iron nail (~12in, warm, Abyssal — resisted Hazik's Identify)
+- Keeper recognized the shrine but was reluctant to share — said the darkness from the past was "locked up to protect"
+- Keeper revealed Circle of the Occult has close ties to Crusaders — Mortivar was their most zealous member before falling, obsessed with both light and dark magic
+- Rangers voted unanimously to send the party to Crusivar on Forden to propose reforging the alliance with Bael Threnfall (son of deceased Vael Threnfall)
+- Keeper gave party a broken silver coin — her half, broken with Vael after the 100 Year War
+- Finn assigned to escort party to Forden (not into the capital)
 - Traded plants with Sage Nightbloom (botanist) for potions
 - Consulted Keeper Caelwyn Oakseeker: Crusaders once friends but now too zealous; they understand Abyssal best; party could mediate as outsiders
 - Crusader Keep is the only Penance Crusaders stronghold in Wilden; their capital is on Forden
@@ -64,6 +68,13 @@ items/         # Notable items
 - Session ended with party resting at The Groveborne
 
 ## Previous Events
+
+- Interrogated Xellath — referenced "the one who oversees all" (likely Eldrix Mortivar), killed himself via incantation
+- Found Abyssal inscription on Xellath — Istren Vale destroyed it (zealotry)
+- Discovered telepathy rings — cultist communication network; Hazik heard voices in unknown language
+- Found altar with skulls — needs 8 rings (party has 2); very dark magic
+- Returned to Southreach, then The Groveborne; re-encountered Clak and Saz; consulted Keeper
+- Purchased 3 mystery empanadas from Shadow Baker (hunger/sickness/instant death — unknown which)
 
 - Explored the Wilden Reach Temple — symmetrical layout, two secret passages (passphrase: "Klaatu barada nikto")
 - Major battle: fought Xellath, Zaelar, cultists, skeletons, and Wights. Zaelar killed; Xellath captured.

@@ -18,3 +18,5 @@ Found frightened on [Wilden Reach](locations/wilden-reach.md), asked the party f
 - Folio contains Greenward's own observation notes — mostly generic (weather, seasons) but includes notes on disturbances near the [Wailing Tundra](locations/wailing-tundra.md); one note reads "Strange disturbances. Need to talk with the Keeper."
 - Invisible ink detected in the folio (via identify spell) — contents unclear, may not be significant
 - Attempted to wear one of the cultist telepathy rings — had a severe negative reaction and was knocked unconscious. Revived using the divinity stone
+- At the Ranger Assembly, reported finding an ancient shrine near the [Wilden Reach](locations/wilden-reach.md) Temple: a crowned female figure with gouged-out eyes that appeared to bleed. The shrine is older than the temple itself and had been overgrown, but something recently cleared the growth around it
+- Presented a [Black Iron Nail](items/black-iron-nail.md) — ~12 inches, warm to the touch, Abyssal in nature (resisted Hazik's Identify spell)

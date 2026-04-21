@@ -3,11 +3,12 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- [The Groveborne](locations/the-groveborne.md) - resting, awaiting arrival of [Finn and Creel](npcs/finn-and-creel.md)
+- [The Groveborne](locations/the-groveborne.md) — preparing to depart for [Forden](locations/forden.md)
 
 ## Current Goal
-- Await Finn and Creel to investigate the [telepathy rings](items/telepathy-rings.md)
-- Potentially mend the rift between The Groveborne and the [Penance Crusaders](factions/penance-crusaders.md)
+- Travel to [Crusivar](locations/crusivar.md) on [Forden](locations/forden.md) to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the Groveborne-Crusader alliance
+- Carry the [Broken Silver Coin](items/broken-silver-coin.md) as proof of mission
+- [Finn](npcs/finn-and-creel.md) escorting the party to Forden
 - Find a way to read/understand Abyssal
 
 ## World
@@ -28,7 +29,8 @@
 - [Southreach](locations/southreach.md) - desolate region, home of Ranger Greenward
 - [Wilden Isle](locations/wilden-isle.md) - small island off northeast Wilden
 - [Wilden Reach](locations/wilden-reach.md) - small island cluster southwest of Wilden
-- [Forden](locations/forden.md) - large island to the east, Penance Crusaders capital
+- [Forden](locations/forden.md) - large island to the east, Penance Crusaders homeland
+- [Crusivar](locations/crusivar.md) - Penance Crusaders capital city on Forden
 - [Crusader Keep](locations/crusader-keep.md) - Penance Crusaders stronghold in Wilden
 
 ## Player Characters (Level 3)
@@ -52,6 +54,8 @@
 - [Istren Vale](npcs/istren-vale.md) - Lightkeeper of the Order of the Sentinel Guards
 - [Xellath](npcs/xellath.md) - cultist, interrogated and killed himself
 - [Finn and Creel](npcs/finn-and-creel.md) - Groveborne Rangers, summoned by the Keeper
+- [Bael Threnfall](npcs/bael-threnfall.md) - ruler of the Penance Crusaders
+- [Klif](npcs/klif.md) - estranged Groveborne Ranger
 
 ## Factions
 - [Circle of the Occult](factions/circle-of-the-occult.md) - enemies of The Groveborne
@@ -63,5 +67,7 @@
 - [Morwen's Recipe Book](items/morwen-recipe-book.md) - spells/potions recipes and colored liquids
 - [Medallion of Thoughts](items/medallion-of-thoughts.md) - allows casting Detect Thoughts
 - [Telepathy Rings](items/telepathy-rings.md) - cultist communication network (party has 2 of 8)
+- [Broken Silver Coin](items/broken-silver-coin.md) - symbol of the old Groveborne-Crusader alliance
+- [Black Iron Nail](items/black-iron-nail.md) - Abyssal artifact found near Wilden Reach Temple
 
 ## Sessions

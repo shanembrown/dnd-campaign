@@ -21,6 +21,8 @@ Enemies of [The Groveborne](locations/the-groveborne.md). Practitioners of dark 
 - [Wilden Reach](locations/wilden-reach.md) Temple — cultist outpost with summoning rituals, similar magic to Featherthorne Hollow
 
 ## History
-Attacked The Groveborne but were fought off by [Sage Nightbloom](npcs/sage-nightbloom.md) and others. Their dark magic was cleansed by an alliance between [The Groveborne](locations/the-groveborne.md) and the [Penance Crusaders](factions/penance-crusaders.md). However, this dark magic is now resurfacing.
+- Attacked The Groveborne but were fought off by [Sage Nightbloom](npcs/sage-nightbloom.md) and others
+- Their dark magic was cleansed by an alliance between [The Groveborne](locations/the-groveborne.md) and the [Penance Crusaders](factions/penance-crusaders.md), but is now resurfacing
+- **Close ties to the Penance Crusaders** — founded by [Eldrix Mortivar](npcs/eldrix-mortivar.md), who was one of the most zealous Crusaders before falling from grace and becoming obsessed with both light and dark magic
 
 ## Notes

@@ -4,9 +4,14 @@
 A large crescent/horseshoe-shaped island to the east of [Wilden](locations/the-groveborne.md), across open sea. One of the major landmasses of [Illium](locations/illium.md).
 
 ## Features
-- Home of the [Penance Crusaders](factions/penance-crusaders.md) capital
+- **[Crusivar](locations/crusivar.md)** — capital city, seat of the Threnfall ruling family
+- Home of the [Penance Crusaders](factions/penance-crusaders.md)
+
+## Regions
+- **Southern Forden** — covered by Ranger [Finn](npcs/finn-and-creel.md); Crusaders active with tripled patrols
+- **Northern Forden** — covered by Ranger [Creel](npcs/finn-and-creel.md); mining guild operates here; suspiciously quiet reports despite dark ships heading this direction
 
 ## Significance
-The party may need to sail here to meet the Penance Crusaders faction leader. Accessible by ship from [Crusader Keep](locations/crusader-keep.md) in Wilden.
+The party has been sent here to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the alliance. [Finn](npcs/finn-and-creel.md) will escort them.
 
 ## Notes

@@ -5,6 +5,7 @@
 
 ## Notable Features
 - A great tree at the center
+- **Heart Chamber** — meeting hall located up in the central tree, used for Ranger assemblies
 - [The Rootpath](locations/the-rootpath.md) - beneath the central tree
 - Groveborne Rangers - the eyes and ears of The Groveborne
 
@@ -25,5 +26,12 @@ Attacked by the [Circle of the Occult](factions/circle-of-the-occult.md), but th
 - Keeper confirmed the [Penance Crusaders](factions/penance-crusaders.md) may be too zealous but acknowledged they understand Abyssal better than anyone
 - Discussed possibility of the party mediating between The Groveborne and the Penance Crusaders as "outsiders"
 - Keeper summoned [Finn and Creel](npcs/finn-and-creel.md) to investigate the telepathy rings
+- **Ranger Assembly in the Heart Chamber** — Keeper convened a meeting with Rangers (Finn, Creel, [Reif](npcs/reif.md), [Sage Nightbloom](npcs/sage-nightbloom.md), [Klif](npcs/klif.md)) and the party
+- Field reports revealed escalating threats: dark ships, ritual sites, missing informants, Crusader patrol losses
+- Keeper revealed the Circle of the Occult's close ties to the Penance Crusaders — Mortivar was one of their most zealous members before falling
+- Keeper admitted the Groveborne locked away knowledge of this dark history to protect people
+- Rangers voted unanimously to send the party to [Crusivar](locations/crusivar.md) on [Forden](locations/forden.md) to propose reforging the old alliance with the [Penance Crusaders](factions/penance-crusaders.md)
+- Keeper gave the party a [Broken Silver Coin](items/broken-silver-coin.md) — symbol of the old alliance, broken by her and Vael Threnfall after the 100 Year War
+- [Finn](npcs/finn-and-creel.md) assigned to accompany the party to Forden (but not into the capital)
 
 ## Notes
