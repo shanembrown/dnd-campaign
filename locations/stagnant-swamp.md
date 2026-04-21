@@ -12,7 +12,7 @@ A murky, boggy swamp south of [The Groveborne](locations/the-groveborne.md). The
 
 
 ## Significance
-Lies on the route south toward [Southern Wilden](locations/southern-wilden.md). [Calef](npcs/calef.md) warned that the swamp would be more difficult than the mountains.
+Lies on the route south toward [Southern Wilden](locations/southern-wilden.md). [Klif](npcs/klif.md) warned that the swamp would be more difficult than the mountains.
 
 ## Notes
 Party took a long rest at Morwen's hut before continuing south.

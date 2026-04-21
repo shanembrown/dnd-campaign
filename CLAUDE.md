@@ -22,8 +22,8 @@ A knowledge base for tracking an active D&D campaign, including:
 
 **Important**: All internal links must use absolute paths from the doc root:
 - `locations/the-groveborne.md` (correct)
-- `npcs/calef.md` (correct)
-- `../npcs/calef.md` (wrong - causes 404s)
+- `npcs/klif.md` (correct)
+- `../npcs/klif.md` (wrong - causes 404s)
 - `/locations/the-groveborne.md` (wrong - leading slash breaks links)
 
 ## Directory Structure
@@ -88,7 +88,7 @@ items/         # Notable items
 - Sailed to Wilden Reach, found Greenward frightened and asking for help urgently
 - Discovered unexpected cultist outpost on jungle island — defeated cultists and 3 Steam Mephits
 - Party traveled from Hightower back to The Groveborne, then headed south
-- Met Calef (ex-Ranger) in The Rootpath — left Rangers voluntarily, won't guide party but shared route info (swamp is harder than mountains, path through mountains on the far side)
+- Met Klif (ex-Ranger) in The Rootpath — left Rangers voluntarily, won't guide party but shared route info (swamp is harder than mountains, path through mountains on the far side)
 - Met The Shadow Baker in The Rootpath — sells magical baked goods; donut turns eater into a frog (Saz), orange gillette held by Hazik (effect unknown)
 - Defeated Morwen the Hag in the Stagnant Swamp — confirmed Circle of the Occult member
 - Morwen's ritual used liquid to raise the dead as undead; same demonic magic as Featherthorne Hollow

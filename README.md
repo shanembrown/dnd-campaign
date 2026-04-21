@@ -43,7 +43,7 @@
 - [Keeper Caelwyn Oakseeker](npcs/caelwyn-oakseeker.md) - leader of The Groveborne
 - [The Shadow Baker](npcs/shadow-baker.md) - vendor in The Rootpath, sells magical baked goods
 - [Clak and Saz](npcs/clak-and-saz.md) - met in The Rootpath
-- [Calef](npcs/calef.md) - ex-Ranger, estranged from The Grovekeeper
+
 - [Reif](npcs/reif.md) - current Ranger, found at Hightower
 - [Sage Nightbloom](npcs/sage-nightbloom.md) - botanist of The Groveborne
 - [The Grovekeeper](npcs/the-grovekeeper.md) - leader of the Groveborne Rangers

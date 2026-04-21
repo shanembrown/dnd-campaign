@@ -7,6 +7,6 @@ Leader of the Groveborne Rangers - the eyes and ears of [The Groveborne](locatio
 
 
 ## Actions
-- Estranged from [Calef](npcs/calef.md), who left the Rangers voluntarily
+- Estranged from [Klif](npcs/klif.md), who left the Rangers voluntarily
 
 ## Notes

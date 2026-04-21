@@ -27,7 +27,7 @@
   - [Keeper Caelwyn Oakseeker](npcs/caelwyn-oakseeker.md)
   - [The Shadow Baker](npcs/shadow-baker.md)
   - [Clak and Saz](npcs/clak-and-saz.md)
-  - [Calef](npcs/calef.md)
+  - [Klif](npcs/klif.md)
   - [Reif](npcs/reif.md)
   - [Sage Nightbloom](npcs/sage-nightbloom.md)
   - [The Grovekeeper](npcs/the-grovekeeper.md)
@@ -39,7 +39,6 @@
   - [Xellath](npcs/xellath.md)
   - [Finn and Creel](npcs/finn-and-creel.md)
   - [Bael Threnfall](npcs/bael-threnfall.md)
-  - [Klif](npcs/klif.md)
 - **Factions**
   - [Circle of the Occult](factions/circle-of-the-occult.md)
   - [Penance Crusaders](factions/penance-crusaders.md)
