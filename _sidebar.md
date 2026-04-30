@@ -40,6 +40,9 @@
   - [Xellath](npcs/xellath.md)
   - [Finn and Creel](npcs/finn-and-creel.md)
   - [Bael Threnfall](npcs/bael-threnfall.md)
+  - [Inquisitor Krell](npcs/inquisitor-krell.md)
+  - [Vestren](npcs/vestren.md)
+  - [Esk](npcs/esk.md)
 - **Factions**
   - [Circle of the Occult](factions/circle-of-the-occult.md)
   - [Penance Crusaders](factions/penance-crusaders.md)

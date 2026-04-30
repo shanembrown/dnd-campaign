@@ -22,4 +22,4 @@ Animals communicated (via Speak with Animals) that all the humans got up and lef
 - The rider stabbed and killed [Finn](npcs/finn-and-creel.md) upon learning of her secret affair with Halden Vayer (a Crusader) — saw her as a traitor
 
 ## Notes
-- Party plans to bury Finn and the rider here in the morning
+- Party buried [Finn](npcs/finn-and-creel.md) and the Crusader rider near Wicks Hollow before continuing east toward [Crusader Keep](locations/crusader-keep.md)

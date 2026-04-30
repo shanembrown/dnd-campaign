@@ -3,13 +3,13 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- Near [Wicks Hollow](locations/wicks-hollow.md) — southeastern Wilden, camped off the road overnight
+- [Crusader Keep](locations/crusader-keep.md) — Stockade level, in a gear-storage room down the hall from the cells. Defeated 4 guards + a mastiff; all gear recovered. Still inside the keep.
 
 ## Current Goal
 - Travel to [Crusivar](locations/crusivar.md) on [Forden](locations/forden.md) to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the Groveborne-Crusader alliance
 - Carry the [Broken Silver Coin](items/broken-silver-coin.md) as proof of mission
-- Finn is dead — party has lost their escort and must decide whether to press forward or return to the Groveborne
-- The Groveborne does not know about Wicks Hollow, Finn's death, Istren's death, or the Crusader betrayal
+- Determine who in the Crusaders is loyal vs. compromised before revealing the rider's betrayal or Istren's death
+- The Groveborne still does not know about Wicks Hollow, Finn's death, Istren's death, or the Crusader betrayal
 - Find a way to read/understand Abyssal
 
 ## World
@@ -58,6 +58,9 @@
 - [Finn and Creel](npcs/finn-and-creel.md) - Groveborne Rangers, summoned by the Keeper
 - [Bael Threnfall](npcs/bael-threnfall.md) - ruler of the Penance Crusaders
 - [Klif](npcs/klif.md) - estranged Groveborne Ranger
+- [Inquisitor Krell](npcs/inquisitor-krell.md) - Penance Crusader inquisitor at Crusader Keep
+- [Vestren](npcs/vestren.md) - fellow prisoner in the Stockade (caught pickpocketing Crusaders)
+- [Esk](npcs/esk.md) - fellow prisoner in the Stockade
 
 ## Factions
 - [Circle of the Occult](factions/circle-of-the-occult.md) - enemies of The Groveborne
