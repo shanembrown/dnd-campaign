@@ -1,4 +1,4 @@
-# Vestren
+# Vesker
 
 ## Description
 A fellow prisoner in the Stockade at [Crusader Keep](locations/crusader-keep.md).
@@ -9,4 +9,6 @@ A fellow prisoner in the Stockade at [Crusader Keep](locations/crusader-keep.md)
 
 ## Notes
 - Met by the party while imprisoned in the Stockade
-- Could be an asset (lockpicking, sleight of hand, knowledge of the keep's interior) or a planted informant — verify before trusting
+- During the party's breakout, his cell was opened — he ran off immediately without lingering or thanking the party
+- His fate is unknown; shortly after his exit, the party heard guards and dogs in the distance somewhere in the keep
+- Possible he was caught, possible he escaped, possible he led pursuit away from the party — unconfirmed

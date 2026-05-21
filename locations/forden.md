@@ -1,10 +1,11 @@
 # Forden
 
 ## Description
-A large crescent/horseshoe-shaped island to the east of [Wilden](locations/the-groveborne.md), across open sea. One of the major landmasses of [Illium](locations/illium.md).
+The **continent of Forden** — a large landmass east of [Wilden](locations/the-groveborne.md), across open sea. One of the major landmasses of [Illium](locations/illium.md).
 
 ## Features
 - **[Crusivar](locations/crusivar.md)** — capital city, seat of the Threnfall ruling family
+- **[Candlekeep](locations/candlekeep.md)** — a town on Forden; party is sailing here from Crusader Keep
 - Home of the [Penance Crusaders](factions/penance-crusaders.md)
 
 ## Regions

@@ -14,6 +14,7 @@ Once a member of the [Penance Crusaders](factions/penance-crusaders.md) — know
 
 ## Known Rituals
 - **The Hollowing** — victims disappear for a few days; when found, their eyes have been removed. Mortivar is known for this ritual. The crowned female shrine near the [Wilden Reach](locations/wilden-reach.md) Temple (gouged, bleeding eyes) may be connected.
+- New variant observed: [a Hollowed woman](npcs/hollowed-woman.md) imprisoned at [Crusader Keep](locations/crusader-keep.md) has **no eyes AND cannot hear** — suggests the ritual may have evolved, or that an additional layer of magic strips other senses
 
 ## Connection to the Party
 - The primary antagonist

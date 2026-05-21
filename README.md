@@ -3,7 +3,7 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- [Crusader Keep](locations/crusader-keep.md) — Stockade level, in a gear-storage room down the hall from the cells. Defeated 4 guards + a mastiff; all gear recovered. Still inside the keep.
+- **Aboard [Captain Marin](npcs/captain-marin.md)'s ship**, sailing east from [Crusader Keep](locations/crusader-keep.md) toward **[Candlekeep](locations/candlekeep.md)** on the continent of [Forden](locations/forden.md). Paid 20 gp per person (80 gp total).
 
 ## Current Goal
 - Travel to [Crusivar](locations/crusivar.md) on [Forden](locations/forden.md) to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the Groveborne-Crusader alliance
@@ -30,12 +30,13 @@
 - [Southreach](locations/southreach.md) - desolate region, home of Ranger Greenward
 - [Wilden Isle](locations/wilden-isle.md) - small island off northeast Wilden
 - [Wilden Reach](locations/wilden-reach.md) - small island cluster southwest of Wilden
-- [Forden](locations/forden.md) - large island to the east, Penance Crusaders homeland
+- [Forden](locations/forden.md) - continent to the east, Penance Crusaders homeland
+  - [Candlekeep](locations/candlekeep.md) - a town on Forden (current destination)
 - [Crusivar](locations/crusivar.md) - Penance Crusaders capital city on Forden
 - [Crusader Keep](locations/crusader-keep.md) - Penance Crusaders stronghold in Wilden
 - [Wicks Hollow](locations/wicks-hollow.md) - abandoned village, SE Wilden
 
-## Player Characters (Level 3)
+## Player Characters (Level 4)
 - [Raker](pcs/raker.md) - Druid
 - [Danior](pcs/danior.md) - Cleric
 - [Das](pcs/das.md) - Fighter
@@ -59,8 +60,13 @@
 - [Bael Threnfall](npcs/bael-threnfall.md) - ruler of the Penance Crusaders
 - [Klif](npcs/klif.md) - estranged Groveborne Ranger
 - [Inquisitor Krell](npcs/inquisitor-krell.md) - Penance Crusader inquisitor at Crusader Keep
-- [Vestren](npcs/vestren.md) - fellow prisoner in the Stockade (caught pickpocketing Crusaders)
+- [Captain Marin](npcs/captain-marin.md) - ship captain hired to sail the party east from Crusader Keep
+- [Vesker](npcs/vesker.md) - fellow prisoner in the Stockade (caught pickpocketing Crusaders); released during breakout, ran off
 - [Esk](npcs/esk.md) - fellow prisoner in the Stockade
+- [Jas](npcs/jas.md) - young boy (~12), stable boy and dog trainer at Crusader Keep; scared and confused
+- [Brother Elrick Vey](npcs/elrick-vey.md) - priest imprisoned at Crusader Keep as a "heretic" for following the older saints
+- [The Hollowed Woman](npcs/hollowed-woman.md) - eyeless, deaf prisoner at Crusader Keep; suspected Hollowing victim
+- [The Silent One](npcs/the-silent-one.md) - giant imprisoned at Crusader Keep; "silent" only because no one there speaks Giant
 
 ## Factions
 - [Circle of the Occult](factions/circle-of-the-occult.md) - enemies of The Groveborne

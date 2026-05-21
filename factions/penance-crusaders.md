@@ -31,5 +31,6 @@ A faction of crusaders who fight against dark magic.
 - Tripled patrols and daily military drills — clearly preparing for something
 - 3 Crusader patrols have failed to return; official word is "banditry" but this seems implausible
 - The party has been sent by the Groveborne Rangers to propose reforging the alliance, carrying the [Broken Silver Coin](items/broken-silver-coin.md) to [Bael Threnfall](npcs/bael-threnfall.md)
+- **Doctrinal schism**: the modern order has drifted from "the older saints"; followers of the old tradition are now branded heretics and imprisoned (e.g., [Brother Elrick Vey](npcs/elrick-vey.md) at Crusader Keep). May explain the betrayed rider at Wicks Hollow and [Istren Vale](npcs/istren-vale.md)'s assassination
 
 ## Notes

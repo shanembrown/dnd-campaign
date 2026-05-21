@@ -17,6 +17,7 @@
   - [Wilden Reach](locations/wilden-reach.md)
   - [Forden](locations/forden.md)
   - [Crusivar](locations/crusivar.md)
+  - [Candlekeep](locations/candlekeep.md)
   - [Crusader Keep](locations/crusader-keep.md)
   - [Wicks Hollow](locations/wicks-hollow.md)
 - **Player Characters**
@@ -41,8 +42,13 @@
   - [Finn and Creel](npcs/finn-and-creel.md)
   - [Bael Threnfall](npcs/bael-threnfall.md)
   - [Inquisitor Krell](npcs/inquisitor-krell.md)
-  - [Vestren](npcs/vestren.md)
+  - [Vesker](npcs/vesker.md)
   - [Esk](npcs/esk.md)
+  - [Jas](npcs/jas.md)
+  - [Brother Elrick Vey](npcs/elrick-vey.md)
+  - [The Hollowed Woman](npcs/hollowed-woman.md)
+  - [The Silent One](npcs/the-silent-one.md)
+  - [Captain Marin](npcs/captain-marin.md)
 - **Factions**
   - [Circle of the Occult](factions/circle-of-the-occult.md)
   - [Penance Crusaders](factions/penance-crusaders.md)
