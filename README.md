@@ -3,7 +3,7 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- **Aboard [Captain Marin](npcs/captain-marin.md)'s ship**, sailing east from [Crusader Keep](locations/crusader-keep.md) toward **[Candlekeep](locations/candlekeep.md)** on the continent of [Forden](locations/forden.md). Paid 20 gp per person (80 gp total).
+- **Aboard [The Thornbill](locations/the-thornbill.md)** ([Captain Merrin](npcs/captain-merrin.md)'s cog), sailing east from [Crusader Keep](locations/crusader-keep.md) toward **[Candlekeep](locations/candlekeep.md)** on the continent of [Forden](locations/forden.md). ~2-week voyage; paid 20 gp per person (80 gp total).
 
 ## Current Goal
 - Travel to [Crusivar](locations/crusivar.md) on [Forden](locations/forden.md) to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the Groveborne-Crusader alliance
@@ -59,8 +59,11 @@
 - [Finn and Creel](npcs/finn-and-creel.md) - Groveborne Rangers, summoned by the Keeper
 - [Bael Threnfall](npcs/bael-threnfall.md) - ruler of the Penance Crusaders
 - [Klif](npcs/klif.md) - estranged Groveborne Ranger
-- [Inquisitor Krell](npcs/inquisitor-krell.md) - Penance Crusader inquisitor at Crusader Keep
-- [Captain Marin](npcs/captain-marin.md) - ship captain hired to sail the party east from Crusader Keep
+- [Inquisitor Thadric Krell](npcs/inquisitor-krell.md) - Penance Crusader inquisitor at Crusader Keep; imprisoned the party. Captain Merrin sailed with him long ago
+- [Captain Merrin](npcs/captain-merrin.md) - captain of The Thornbill; hired to sail the party east from Crusader Keep
+- [Onna Kelp](npcs/onna-kelp.md) - first mate of The Thornbill
+- [Old Brusk](npcs/old-brusk.md) - cook aboard The Thornbill
+- [Sehir Vondrel](npcs/sehir-vondrel.md) - mysterious passenger living below decks on The Thornbill; telepathically sought Raker
 - [Vesker](npcs/vesker.md) - fellow prisoner in the Stockade (caught pickpocketing Crusaders); released during breakout, ran off
 - [Esk](npcs/esk.md) - fellow prisoner in the Stockade
 - [Jas](npcs/jas.md) - young boy (~12), stable boy and dog trainer at Crusader Keep; scared and confused

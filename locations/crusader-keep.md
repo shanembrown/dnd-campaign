@@ -6,6 +6,7 @@ The only [Penance Crusaders](factions/penance-crusaders.md) stronghold in [Wilde
 ## Significance
 - Ships depart from here to reach the Penance Crusaders' capital on [Forden](locations/forden.md)
 - [Istren Vale](npcs/istren-vale.md) was adamant the party should travel here with him
+- **The keep is arming up.** The crew of [The Thornbill](locations/the-thornbill.md) note they've been shipping **far more supplies than normal** to Crusader Keep lately — weapons, fortifications, etc. The keep is fortifying/preparing for something. Combined with the doctrinal schism, the prisoner Hollowing victim, and the elevated alert state, this suggests the keep is gearing up for a conflict (internal purge, external war, or both)
 
 ## Notable Locations Within
 - **The Stockade** — keep's holding cells; dark, cramped. **Antimagic field active** — Hazik attempted Light and the spell failed; something in the air is suppressing magic. Party was imprisoned here.

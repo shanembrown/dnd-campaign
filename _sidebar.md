@@ -20,6 +20,7 @@
   - [Candlekeep](locations/candlekeep.md)
   - [Crusader Keep](locations/crusader-keep.md)
   - [Wicks Hollow](locations/wicks-hollow.md)
+  - [The Thornbill](locations/the-thornbill.md)
 - **Player Characters**
   - [Raker](pcs/raker.md)
   - [Danior](pcs/danior.md)
@@ -48,11 +49,15 @@
   - [Brother Elrick Vey](npcs/elrick-vey.md)
   - [The Hollowed Woman](npcs/hollowed-woman.md)
   - [The Silent One](npcs/the-silent-one.md)
-  - [Captain Marin](npcs/captain-marin.md)
+  - [Captain Merrin](npcs/captain-merrin.md)
+  - [Onna Kelp](npcs/onna-kelp.md)
+  - [Old Brusk](npcs/old-brusk.md)
+  - [Sehir Vondrel](npcs/sehir-vondrel.md)
 - **Factions**
   - [Circle of the Occult](factions/circle-of-the-occult.md)
   - [Penance Crusaders](factions/penance-crusaders.md)
   - [Order of the Sentinel Guards](factions/order-of-the-sentinel-guards.md)
+  - [The Avowed](factions/the-avowed.md)
 - **Items**
   - [Sigil of the Occult](items/sigil-of-the-occult.md)
   - [Morwen's Recipe Book](items/morwen-recipe-book.md)
@@ -60,3 +65,4 @@
   - [Telepathy Rings](items/telepathy-rings.md)
   - [Broken Silver Coin](items/broken-silver-coin.md)
   - [Black Iron Nail](items/black-iron-nail.md)
+  - [The Deck of Many Things](items/deck-of-many-things.md)

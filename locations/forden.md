@@ -15,4 +15,8 @@ The **continent of Forden** — a large landmass east of [Wilden](locations/the-
 ## Significance
 The party has been sent here to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the alliance. [Finn](npcs/finn-and-creel.md) will escort them.
 
+## Travel
+- **~2-week sea journey** from [Wilden](locations/the-groveborne.md) (departing [Crusader Keep](locations/crusader-keep.md)) to Forden
+- The route swings **further south to avoid rougher seas** — adds distance but safer passage
+
 ## Notes

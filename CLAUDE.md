@@ -41,7 +41,7 @@ items/         # Notable items
 - **Party Level**: 4
 - **Party**: Raker (Druid), Danior (Cleric), Das (Fighter), Hazik (Wizard)
 - **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader, dark necromancer)
-- **Current Location**: Aboard Captain Marin's ship, sailing east from Crusader Keep toward Candlekeep (town on the continent of Forden)
+- **Current Location**: Aboard The Thornbill (Captain Merrin's cog), sailing east from Crusader Keep toward Candlekeep (town on the continent of Forden); ~2-week voyage
 - **Current Goal**: Travel to Crusivar on Forden to meet Bael Threnfall and propose reforging alliance; learn Abyssal
 - **Companion**: Ranger Greenward (traveling with party)
 - **Finn is dead** — killed by a wounded Crusader rider near Wicks Hollow; wisp message never sent; Groveborne is in the dark
@@ -69,7 +69,7 @@ items/         # Notable items
 - Hallway encounter on the way out — fought 1 guard + 1 dog, then a second wave of 2 guards + 2 dogs that clumped in 4 adjacent squares
 - Hazik dropped a major AoE spell that killed both clustered guards outright; party finished the fight cleanly
 - Made it through the keep to **the Docks** — cobblestone walkway, low torchlight, light rain (natural cover for sight + sound)
-- Met **[Captain Marin](npcs/captain-marin.md)** — agreed to sail the party east for 20 gp per person (80 gp total)
+- Met **[Captain Merrin](npcs/captain-merrin.md)** (ship: **[The Thornbill](locations/the-thornbill.md)**) — agreed to sail the party east for 20 gp per person (80 gp total)
 - Destination: **[Candlekeep](locations/candlekeep.md)**, a town on the **continent of [Forden](locations/forden.md)** (NOT Crusivar — possibly a deliberate detour by Marin, or her route's natural endpoint)
 - Party at sea as session ended
 
