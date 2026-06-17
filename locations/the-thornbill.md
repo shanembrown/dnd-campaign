@@ -26,3 +26,6 @@ A small **cog** captained by [Captain Merrin](npcs/captain-merrin.md). Single ma
 
 ## Notes
 - The crew have remarked they've shipped **far more supplies than usual** (weapons, fortifications) to Crusader Keep lately — see [Crusader Keep](locations/crusader-keep.md)
+
+## Voyage Events
+- **Night tempest:** after the party turned in, a **tempest storm** woke them and they were called up to help navigate the ship. Lasted ~an hour before they reached **calmer waters**. During the storm, [Das](pcs/das.md) had a realization about his **lost faith** and a connection to the **Storm God Stronmaus** *(spelling to confirm)* — a giant deity of storms/sky

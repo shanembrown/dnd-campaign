@@ -45,8 +45,21 @@ items/         # Notable items
 - **Current Goal**: Travel to Crusivar on Forden to meet Bael Threnfall and propose reforging alliance; learn Abyssal
 - **Companion**: Ranger Greenward (traveling with party)
 - **Finn is dead** — killed by a wounded Crusader rider near Wicks Hollow; wisp message never sent; Groveborne is in the dark
+- **The party holds [The Deck of Many Things](items/deck-of-many-things.md)** — a custom 66-card set; they have 13. Given to Raker in secret by the seer [Sehir Vondrel](npcs/sehir-vondrel.md). No cards drawn yet
 
-## Recent Events (current session)
+## Recent Events (current session) — Aboard The Thornbill
+
+Party sailed from Crusader Keep toward [Candlekeep](locations/candlekeep.md) on [Forden](locations/forden.md) aboard **[The Thornbill](locations/the-thornbill.md)** ([Captain Merrin](npcs/captain-merrin.md)'s cog). **~2-week voyage**, routed south to avoid rough seas. Session ended with the party back asleep, still at sea, mid-voyage.
+
+- **Crew met:** [Onna Kelp](npcs/onna-kelp.md) (first mate; knows Candlekeep well; drew the ship's map), [Old Brusk](npcs/old-brusk.md) (cook). Merrin is **not a Crusader** — a dependable scallywag who prefers "not knowing too much," and **sailed with [Inquisitor Thadric Krell](npcs/inquisitor-krell.md) long ago**
+- **Intel — Krell reframed:** Merrin says Krell is honest, stern, zealous; *"may not be your friend, may not be your enemy."* The party theorize his imprisonment of them was **protective** — he reacted to the [Broken Silver Coin](items/broken-silver-coin.md) (old alliance relic). **Corroborated by Sehir:** Krell is honest, locked them up **for their safety**, and **he is alone** (isolated in the keep)
+- **Intel — keep arming up:** Thornbill's crew note far heavier weapon/fortification shipments to Crusader Keep than normal lately
+- **Candlekeep clarified:** a **library city run by [The Avowed](factions/the-avowed.md)** (scholars, not soldiers) — port town + monastery on the hill; *not* a Crusader fortress. **[Hazik](pcs/hazik.md) has a connection to the Avowed.** Best lead yet for learning **Abyssal**
+- **[Sehir Vondrel](npcs/sehir-vondrel.md)** — a **seer** living below decks (grey cat, likely a familiar). Has **dreamt of Raker many times**; contacted him telepathically. Gave Raker the **Deck of Many Things** and told him he is **not to speak of her**
+- **Night tempest:** party called up to help navigate; during the storm **[Das](pcs/das.md) reconnected with his lost faith** and a connection to the giant **Storm God Stronmaus** *(spelling to confirm)*. Reached calmer waters after ~an hour
+- **Party leveled to 4** (Raker finalized: WIS 17, HP 37, new cantrip Produce Flame, Misty Step prepared)
+
+## Previous Session — Crusader Keep Breakout & Escape to Sea
 
 ### Crusader Keep — Stockade Breakout & Cell Block 2
 - Party began the session imprisoned in the Stockade (gear stripped, antimagic field active in cells)
