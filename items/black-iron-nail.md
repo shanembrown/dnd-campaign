@@ -1,5 +1,7 @@
 # Black Iron Nail
 
+> **DESTROYED** (DM-confirmed). The party no longer carries it; it survives only as testimony.
+
 ## Description
 A black iron object approximately 12 inches tall, resembling a nail or spike. Warm to the touch.
 

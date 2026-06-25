@@ -40,16 +40,33 @@ items/         # Notable items
 
 - **Party Level**: 4
 - **Party**: Raker (Druid), Danior (Cleric), Das (Fighter), Hazik (Wizard)
-- **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader, dark necromancer)
-- **Current Location**: Aboard The Thornbill (Captain Merrin's cog), sailing east from Crusader Keep toward Candlekeep (town on the continent of Forden); ~2-week voyage
-- **Current Goal**: Travel to Crusivar on Forden to meet Bael Threnfall and propose reforging alliance; learn Abyssal
-- **Companion**: Ranger Greenward (traveling with party)
+- **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader; founder AND suspected leader of the Circle of the Occult, "the one who oversees all")
+- **Current Location**: Aboard The Thornbill (Captain Merrin's cog), having fled Candlekeep under pursuit, now sailing for **Crusivar** on Forden
+- **Current Goal**: Reach Crusivar — meet Bael Threnfall (reforge alliance) AND find Halrick Vord (sent by Ennic). Read the Hollowing Ledger / Abyssal document with The Reader's Lamp; find whether any Hollowing was ever reversed (cure for Draffy / the Hollowed Woman)
+- **Companion status**: Ranger Greenward — *open question*, likely parted ways back at the Groveborne (passage was paid for 4, not 5); to confirm with DM
+- **KEY REVEAL**: The **Hollowing is a corruption of a Penance Crusader purification rite** (an exorcism to cleanse demonic magic from a soul); the Crusaders errantly created it, the Circle weaponized it. Recorded for 200 years in the Hollowing Ledger (predates Eldrix — he's the current master, not the inventor)
+- **Avowed leader [Reader Sevrin](npcs/reader-sevrin.md) is COMPROMISED** — feeding info to the Crusaders. Inquisitor Marrek is hunting the party.
 - **Finn is dead** — killed by a wounded Crusader rider near Wicks Hollow; wisp message never sent; Groveborne is in the dark
 - **The party holds [The Deck of Many Things](items/deck-of-many-things.md)** — a custom 66-card set; they have 13. Given to Raker in secret by the seer [Sehir Vondrel](npcs/sehir-vondrel.md). No cards drawn yet
+- **New key items**: [The Reader's Lamp](items/the-readers-lamp.md) (Hazik; translates any text), [The Hollowing Ledger](items/the-hollowing-ledger.md), Eldrix's sealed "M" scroll (unopened, possibly warded), two [Avowed Brass Keys](items/avowed-brass-keys.md)
 
-## Recent Events (current session) — Aboard The Thornbill
+## Recent Events (current session) — Candlekeep
 
-Party sailed from Crusader Keep toward [Candlekeep](locations/candlekeep.md) on [Forden](locations/forden.md) aboard **[The Thornbill](locations/the-thornbill.md)** ([Captain Merrin](npcs/captain-merrin.md)'s cog). **~2-week voyage**, routed south to avoid rough seas. Session ended with the party back asleep, still at sea, mid-voyage.
+Party **landed at [Candlekeep](locations/candlekeep.md)** ([Onna Kelp](npcs/onna-kelp.md) gave them a map), visited the port bar **[The Reaver's Tooth](locations/the-reavers-tooth.md)**, then went up to the Avowed. Session ended with the party fleeing Candlekeep by sea, bound for **[Crusivar](locations/crusivar.md)**.
+
+- **Crusader omnipresence** around Candlekeep; doors locked, strange creatures, people on edge — changed since Hazik left (1+ yr ago)
+- **Hazik is one of the Avowed** — welcomed "home" coolly by **[Magister Korinvelle](npcs/magister-korinvelle.md)**, warmly by old peer **[Eldra Branch](npcs/eldra-branch.md)**. The Avowed *gather* knowledge but don't *apply* it; Hazik diverged
+- Briefed the Avowed on the necromancy/rituals witnessed; **Reeder Sevinquill** ([Reader Sevrin](npcs/reader-sevrin.md)) confirmed they know the **Circle of the Occult** and hold a documented Hollowing case
+- **KEY REVEAL — the Hollowing = a corrupted Crusader purification rite** (exorcism to cleanse demonic magic from a soul; inverted, it scoops out the soul). Hazik IDed an obsidian disc as a corrupted Crusader ritual object. The Avowed know of **[Draffy](pcs/danior.md)** (Danior's brother, a Hollowing victim)
+- **[Otto Brassweave](npcs/otto-brassweave.md)** (basement "tinkerer of knowledge," mechanical bird Wikket) — most knowledgeable figure met; suspects **Eldrix leads the Circle**. Party IDed three (unrelated) items for him: the **obsidian disc**, a **bone whistle** (paired locator — playing it tells its counterpart your location), and a **brass key** attuned to former Brother **[Halrick Vord](npcs/halrick-vord.md)**. Otto gave Hazik a two-person "cooperation box" (note inside: "Yes" — flavor)
+- **[Brother Ennic](npcs/brother-ennic.md)** (Hazik's dying uncle/father-figure): gave **[The Reader's Lamp](items/the-readers-lamp.md)** (translates any text); warned **Reader Sevrin is compromised** (leaking to the Crusaders); revealed Vord is in Crusivar and **sent the party to him**; gave the riddle **"eight bone pieces; the chain circles around"**
+- **Library vault:** Eldra led them to a never-opened, magic-locked shelf; the lock was a closed chain of 8 tiles, solved via Ennic's riddle (tiles ◇☆ then ☆○). Recovered the **[Hollowing Ledger](items/the-hollowing-ledger.md)** (200 yrs of cases), a scroll sealed with **Eldrix's stylized "M"** (unopened, possibly warded), a black leather pad, and an **unmarked brass key** (same craftsman as Ennic's gifts)
+- **Escape:** **[Inquisitor Marrek](npcs/inquisitor-marrek.md)** arrived hunting the party (Sevrin's tip). Eldra showed them the back way down to the port; they ran into Merrin, Eldra vouched for them, and they sailed for Crusivar (Merrin's heading anyway)
+- **Open threads:** Greenward's status + the (now-destroyed) Black Iron Nail; "Yselra"/who gave the Abyssal Hollowing document (no record — name uncertain); the recurring **grey cat** (Reaver's Tooth → Ennic's deathbed, *not* assumed to be Sehir's); the unmarked vault key's lock; Eldrix's "M" scroll
+
+### Previous session — Aboard The Thornbill
+
+Party sailed from Crusader Keep toward [Candlekeep](locations/candlekeep.md) on [Forden](locations/forden.md) aboard **[The Thornbill](locations/the-thornbill.md)** ([Captain Merrin](npcs/captain-merrin.md)'s cog). **~2-week voyage**, routed south to avoid rough seas.
 
 - **Crew met:** [Onna Kelp](npcs/onna-kelp.md) (first mate; knows Candlekeep well; drew the ship's map), [Old Brusk](npcs/old-brusk.md) (cook). Merrin is **not a Crusader** — a dependable scallywag who prefers "not knowing too much," and **sailed with [Inquisitor Thadric Krell](npcs/inquisitor-krell.md) long ago**
 - **Intel — Krell reframed:** Merrin says Krell is honest, stern, zealous; *"may not be your friend, may not be your enemy."* The party theorize his imprisonment of them was **protective** — he reacted to the [Broken Silver Coin](items/broken-silver-coin.md) (old alliance relic). **Corroborated by Sehir:** Krell is honest, locked them up **for their safety**, and **he is alone** (isolated in the keep)

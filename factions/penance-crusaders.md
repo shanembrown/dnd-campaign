@@ -1,7 +1,7 @@
 # Penance Crusaders
 
 ## Overview
-A faction of crusaders who fight against dark magic.
+A faction of crusaders who fight against dark magic. Their core sacrament is a **purification rite — an exorcism to cleanse demonic/Abyssal magic from a soul** (hence "Penance"). **The Hollowing is a corruption of that rite** — errantly created by the Crusaders and now weaponized by the [Circle of the Occult](factions/circle-of-the-occult.md), inverting an act of mercy (drawing the demonic *out*) into an act of erasure (scooping the *soul* out, leaving an empty vessel). The [Hollowing Ledger](items/the-hollowing-ledger.md) records 200 years of cases.
 
 ## Goals
 
@@ -31,6 +31,9 @@ A faction of crusaders who fight against dark magic.
 - Tripled patrols and daily military drills — clearly preparing for something
 - 3 Crusader patrols have failed to return; official word is "banditry" but this seems implausible
 - The party has been sent by the Groveborne Rangers to propose reforging the alliance, carrying the [Broken Silver Coin](items/broken-silver-coin.md) to [Bael Threnfall](npcs/bael-threnfall.md)
-- **Doctrinal schism**: the modern order has drifted from "the older saints"; followers of the old tradition are now branded heretics and imprisoned (e.g., [Brother Elrick Vey](npcs/elrick-vey.md) at Crusader Keep). May explain the betrayed rider at Wicks Hollow and [Istren Vale](npcs/istren-vale.md)'s assassination
+- **Doctrinal schism**: the modern order has drifted from "the older saints"; followers of the old tradition are now branded heretics and imprisoned (e.g., [Brother Elrick Vey](npcs/elrick-vey.md) at Crusader Keep). May explain the betrayed rider at Wicks Hollow and [Istren Vale](npcs/istren-vale.md)'s assassination. The **schism may be about the corrupted purification rite itself** — the old-saints faction may hold the *true, uncorrupted* rite (and thus a possible **cure** for the Hollowing).
+- **Omnipresence around [Candlekeep](locations/candlekeep.md):** the Crusaders have expanded onto Forden; the Avowed leader **[Reader Sevrin](npcs/reader-sevrin.md)** is feeding them information
+- **[Inquisitor Marrek](npcs/inquisitor-marrek.md)** arrived at Candlekeep hunting the party (likely tipped by Sevrin); the party escaped by sea
 
 ## Notes
+- **Inquisitors of note:** [Krell](npcs/inquisitor-krell.md) (honest, isolated, reportedly imprisoned the party for their safety), [Marrek](npcs/inquisitor-marrek.md) (hunting the party at Candlekeep), and the fallen [Eldrix Mortivar](npcs/eldrix-mortivar.md) (founder/leader of the Circle)

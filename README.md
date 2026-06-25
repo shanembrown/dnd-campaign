@@ -3,14 +3,15 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- **Aboard [The Thornbill](locations/the-thornbill.md)** ([Captain Merrin](npcs/captain-merrin.md)'s cog), sailing east from [Crusader Keep](locations/crusader-keep.md) toward **[Candlekeep](locations/candlekeep.md)** on the continent of [Forden](locations/forden.md). ~2-week voyage; paid 20 gp per person (80 gp total).
+- **Aboard [The Thornbill](locations/the-thornbill.md)** ([Captain Merrin](npcs/captain-merrin.md)'s cog), having left **[Candlekeep](locations/candlekeep.md)** under pursuit, now sailing for **[Crusivar](locations/crusivar.md)** on [Forden](locations/forden.md) (Merrin's heading anyway).
 
 ## Current Goal
-- Travel to [Crusivar](locations/crusivar.md) on [Forden](locations/forden.md) to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the Groveborne-Crusader alliance
-- Carry the [Broken Silver Coin](items/broken-silver-coin.md) as proof of mission
-- Determine who in the Crusaders is loyal vs. compromised before revealing the rider's betrayal or Istren's death
+- Travel to [Crusivar](locations/crusivar.md) to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the Groveborne-Crusader alliance (carry the [Broken Silver Coin](items/broken-silver-coin.md))
+- Find **[Halrick Vord](npcs/halrick-vord.md)** in Crusivar (sent by [Brother Ennic](npcs/brother-ennic.md); return [his brass key](items/avowed-brass-keys.md))
+- Read the **[Hollowing Ledger](items/the-hollowing-ledger.md)** and the Abyssal Hollowing document using **[The Reader's Lamp](items/the-readers-lamp.md)** — find whether any Hollowing was ever **reversed** (a cure for **[Draffy](pcs/danior.md)** and the [Hollowed Woman](npcs/hollowed-woman.md))
+- **Caution:** the Avowed leader **[Reader Sevrin](npcs/reader-sevrin.md)** is compromised (leaks to the Crusaders); **[Inquisitor Marrek](npcs/inquisitor-marrek.md)** is hunting the party
+- Determine who in the Crusaders is loyal vs. compromised; the old-saints faction may hold the **cure** (the uncorrupted purification rite)
 - The Groveborne still does not know about Wicks Hollow, Finn's death, Istren's death, or the Crusader betrayal
-- Find a way to read/understand Abyssal
 
 ## World
 - [Illium](locations/illium.md) - the world (archipelago)
@@ -31,8 +32,9 @@
 - [Wilden Isle](locations/wilden-isle.md) - small island off northeast Wilden
 - [Wilden Reach](locations/wilden-reach.md) - small island cluster southwest of Wilden
 - [Forden](locations/forden.md) - continent to the east, Penance Crusaders homeland
-  - [Candlekeep](locations/candlekeep.md) - a town on Forden (current destination)
-- [Crusivar](locations/crusivar.md) - Penance Crusaders capital city on Forden
+  - [Candlekeep](locations/candlekeep.md) - Avowed library city on Forden (party landed, then fled)
+    - [The Reaver's Tooth](locations/the-reavers-tooth.md) - port bar in Candlekeep
+- [Crusivar](locations/crusivar.md) - Penance Crusaders capital city on Forden (current destination)
 - [Crusader Keep](locations/crusader-keep.md) - Penance Crusaders stronghold in Wilden
 - [Wicks Hollow](locations/wicks-hollow.md) - abandoned village, SE Wilden
 
@@ -64,6 +66,15 @@
 - [Onna Kelp](npcs/onna-kelp.md) - first mate of The Thornbill
 - [Old Brusk](npcs/old-brusk.md) - cook aboard The Thornbill
 - [Sehir Vondrel](npcs/sehir-vondrel.md) - mysterious passenger living below decks on The Thornbill; telepathically sought Raker
+
+### Candlekeep (The Avowed)
+- [Magister Korinvelle](npcs/magister-korinvelle.md) - senior Avowed; welcomed Hazik home
+- [Reader Sevrin](npcs/reader-sevrin.md) - leader of the Avowed; **compromised** (leaks to the Crusaders)
+- [Eldra Branch](npcs/eldra-branch.md) - Avowed scholar, warm to Hazik; helped the party escape
+- [Otto Brassweave](npcs/otto-brassweave.md) - "tinkerer of knowledge"; most knowledgeable figure met
+- [Brother Ennic](npcs/brother-ennic.md) - Hazik's dying uncle/father-figure
+- [Halrick Vord](npcs/halrick-vord.md) - former Avowed Brother, now in Crusivar (owns a brass key)
+- [Inquisitor Marrek](npcs/inquisitor-marrek.md) - Crusader Inquisitor hunting the party at Candlekeep
 - [Vesker](npcs/vesker.md) - fellow prisoner in the Stockade (caught pickpocketing Crusaders); released during breakout, ran off
 - [Esk](npcs/esk.md) - fellow prisoner in the Stockade
 - [Jas](npcs/jas.md) - young boy (~12), stable boy and dog trainer at Crusader Keep; scared and confused
@@ -73,7 +84,8 @@
 
 ## Factions
 - [Circle of the Occult](factions/circle-of-the-occult.md) - enemies of The Groveborne
-- [Penance Crusaders](factions/penance-crusaders.md) - order that Eldrix Mortivar fell from
+- [Penance Crusaders](factions/penance-crusaders.md) - order that Eldrix Mortivar fell from; the Hollowing is a corruption of their purification rite
+- [The Avowed](factions/the-avowed.md) - scholars who run Candlekeep; Hazik's order (leader compromised)
 - [Order of the Sentinel Guards](factions/order-of-the-sentinel-guards.md) - order with historic ties to The Groveborne
 
 ## Items
@@ -82,6 +94,10 @@
 - [Medallion of Thoughts](items/medallion-of-thoughts.md) - allows casting Detect Thoughts
 - [Telepathy Rings](items/telepathy-rings.md) - cultist communication network (party has 2 of 8)
 - [Broken Silver Coin](items/broken-silver-coin.md) - symbol of the old Groveborne-Crusader alliance
-- [Black Iron Nail](items/black-iron-nail.md) - Abyssal artifact found near Wilden Reach Temple
+- [Black Iron Nail](items/black-iron-nail.md) - Abyssal artifact found near Wilden Reach Temple (**destroyed**)
+- [The Deck of Many Things](items/deck-of-many-things.md) - custom 66-card set; party holds 13 (none drawn)
+- [The Reader's Lamp](items/the-readers-lamp.md) - heirloom lamp that translates any text
+- [The Hollowing Ledger](items/the-hollowing-ledger.md) - 200-year record of every Hollowing case
+- [Avowed Brass Keys](items/avowed-brass-keys.md) - Vord's key + the unmarked vault key
 
 ## Sessions
