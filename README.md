@@ -3,7 +3,7 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- **Aboard [The Thornbill](locations/the-thornbill.md)** ([Captain Merrin](npcs/captain-merrin.md)'s cog), having left **[Candlekeep](locations/candlekeep.md)** under pursuit, now sailing for **[Crusivar](locations/crusivar.md)** on [Forden](locations/forden.md) (Merrin's heading anyway).
+- **At [Palewater](locations/palewater.md)** — a salt-harvesting town on [Forden](locations/forden.md), a stop on the voyage to **[Crusivar](locations/crusivar.md)** aboard **[The Thornbill](locations/the-thornbill.md)**. The town was found **silenced**: ~200 living townsfolk locked in a **mass salt-pan ritual** (12 figures + a stone substance at an unbreached center). Party paused on the north dyke, about to pursue **a conscious man who lit two torches and hurried inside** — the only awake person in town.
 
 ## Current Goal
 - Travel to [Crusivar](locations/crusivar.md) to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the Groveborne-Crusader alliance (carry the [Broken Silver Coin](items/broken-silver-coin.md))
@@ -34,6 +34,7 @@
 - [Forden](locations/forden.md) - continent to the east, Penance Crusaders homeland
   - [Candlekeep](locations/candlekeep.md) - Avowed library city on Forden (party landed, then fled)
     - [The Reaver's Tooth](locations/the-reavers-tooth.md) - port bar in Candlekeep
+  - [Palewater](locations/palewater.md) - salt-harvesting town; found silenced (mass ritual). **Current location.**
 - [Crusivar](locations/crusivar.md) - Penance Crusaders capital city on Forden (current destination)
 - [Crusader Keep](locations/crusader-keep.md) - Penance Crusaders stronghold in Wilden
 - [Wicks Hollow](locations/wicks-hollow.md) - abandoned village, SE Wilden
@@ -81,6 +82,13 @@
 - [Brother Elrick Vey](npcs/elrick-vey.md) - priest imprisoned at Crusader Keep as a "heretic" for following the older saints
 - [The Hollowed Woman](npcs/hollowed-woman.md) - eyeless, deaf prisoner at Crusader Keep; suspected Hollowing victim
 - [The Silent One](npcs/the-silent-one.md) - giant imprisoned at Crusader Keep; "silent" only because no one there speaks Giant
+
+### Palewater
+- [The Grey Cat](npcs/the-grey-cat.md) - recurring, more-than-ordinary cat; guided the party to free Hen
+- [The Salt Man](npcs/the-salt-man.md) - tall salt-associated outsider who "visits"; left after the silence (person of interest)
+- [Dessa Kell](npcs/dessa-kell.md) - harbormaster; Echo destroyed (not freed) at the mirror
+- [Corum](npcs/corum.md) - blacksmith; Echo freed by naming (the mechanic's discovery)
+- [Hen](npcs/hen.md) - potboy, the cat's favorite; Echo freed (*"freedom is sweet; but there are more"*)
 
 ## Factions
 - [Circle of the Occult](factions/circle-of-the-occult.md) - enemies of The Groveborne

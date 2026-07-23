@@ -41,7 +41,7 @@ items/         # Notable items
 - **Party Level**: 4
 - **Party**: Raker (Druid), Danior (Cleric), Das (Fighter), Hazik (Wizard)
 - **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader; founder AND suspected leader of the Circle of the Occult, "the one who oversees all")
-- **Current Location**: Aboard The Thornbill (Captain Merrin's cog), having fled Candlekeep under pursuit, now sailing for **Crusivar** on Forden
+- **Current Location**: At **[Palewater](locations/palewater.md)** — a salt-harvesting town on Forden, a stop on the voyage to **Crusivar** aboard The Thornbill. Town found **silenced**: ~200 living townsfolk in a mass salt-pan ritual (unbreached center: 12 figures + a stone substance). Party on the north dyke, about to pursue a **conscious man who lit two torches and fled inside**
 - **Current Goal**: Reach Crusivar — meet Bael Threnfall (reforge alliance) AND find Halrick Vord (sent by Ennic). Read the Hollowing Ledger / Abyssal document with The Reader's Lamp; find whether any Hollowing was ever reversed (cure for Draffy / the Hollowed Woman)
 - **Companion status**: Ranger Greenward — *open question*, likely parted ways back at the Groveborne (passage was paid for 4, not 5); to confirm with DM
 - **KEY REVEAL**: The **Hollowing is a corruption of a Penance Crusader purification rite** (an exorcism to cleanse demonic magic from a soul); the Crusaders errantly created it, the Circle weaponized it. Recorded for 200 years in the Hollowing Ledger (predates Eldrix — he's the current master, not the inventor)
@@ -50,7 +50,19 @@ items/         # Notable items
 - **The party holds [The Deck of Many Things](items/deck-of-many-things.md)** — a custom 66-card set; they have 13. Given to Raker in secret by the seer [Sehir Vondrel](npcs/sehir-vondrel.md). No cards drawn yet
 - **New key items**: [The Reader's Lamp](items/the-readers-lamp.md) (Hazik; translates any text), [The Hollowing Ledger](items/the-hollowing-ledger.md), Eldrix's sealed "M" scroll (unopened, possibly warded), two [Avowed Brass Keys](items/avowed-brass-keys.md)
 
-## Recent Events (current session) — Candlekeep
+## Recent Events (current session) — Palewater
+
+On **Day 3** of the voyage to Crusivar, The Thornbill put in at **[Palewater](locations/palewater.md)**, a **salt-harvesting town** on Forden. The party found it **silenced** and uncovered a mass ritual in progress.
+
+- **The silence:** town found abandoned — no life, no torches, doors open, a **thin even layer of salt over everything** (their trade good). Signs of an **instantaneous, simultaneous event ~1 day ago** (un-rotted food, standing water, harbormaster's **quill frozen mid-word**, tools dropped mid-task). **Raker touched the sea and recoiled** — the water is *wrong*.
+- **KEY REVEAL — the Echo/naming mechanic:** some silenced townsfolk left **"Echoes"** anchored in **reflective surfaces** (mirror, window, water). **Speaking an Echo's true name FREES it** — it departs saying *"freedom."* Danior discovered this by naming the smith's Echo **"Corum."** Fighting/shattering the anchor instead **destroys** it (as happened to **[Dessa Kell](npcs/dessa-kell.md)**, the harbormaster, before her name was known). **The party freed ALL of Palewater's Echoes** (Corum the smith, **[Hen](npcs/hen.md)** the potboy — *"freedom is sweet; but there are more"* — a father & kids, the bakery, etc.). **Possible lead on Hollowing *reversal/release*** (caveat: release to peace for the *dead*, not confirmed restoration of the *living*).
+- **The living ritual (the cause — UNRESOLVED):** north over the dyke, **~200 townsfolk stand in shin-deep salt water in a pattern**, silent, heads bowed. Medicine check: **alive, not Hollowed** — slow shallow pulse, **breathing/pulsing as one**, **wide-eyed but entranced** → **potentially savable.** At the center, **12 figures** around a **stone-looking substance**, behind a **"final wall"** the party couldn't breach. The 200 are a **non-violent soft barrier** (they calmly relocate intruders and resume).
+- **Scouting:** Raker Wild Shaped to a **cat**, Danior drank a **Potion of Invisibility**; reached the inner ring but not the center.
+- **The [grey cat](npcs/the-grey-cat.md):** recurring (Reaver's Tooth → Ennic's deathbed → here); spoke in **clear narrative** via Speak with Animals — *"They went silent," "the tall salt man went back to his house," "the fish man walked into the ocean"* — and named its favorite (**Hen**), steering the party to save him.
+- **Session ended:** as the party debated their move, **two torches lit** at a building; **a conscious man noticed them and hurried inside** — the only awake person seen. Next move: pursue/question him.
+- **Open threads:** the **cause** (the 12 + stone substance); the **[salt man](npcs/the-salt-man.md)** (tall salt-associated outsider who "visits," left after the silence — footprints led north on the Drover's Road; person of interest); the **fish man / netmender** (walked into the ocean — a widower; his late wife **Mera**, ring inscribed *"my dear Mera"*); **E. G. "who burned"** (unknown; memorial token handled after the salt fell); the **Concordance** church (the building's name; practices the Crusaders' **monotheistic** faith).
+
+## Recent Events (previous session) — Candlekeep
 
 Party **landed at [Candlekeep](locations/candlekeep.md)** ([Onna Kelp](npcs/onna-kelp.md) gave them a map), visited the port bar **[The Reaver's Tooth](locations/the-reavers-tooth.md)**, then went up to the Avowed. Session ended with the party fleeing Candlekeep by sea, bound for **[Crusivar](locations/crusivar.md)**.
 
