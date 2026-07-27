@@ -13,6 +13,10 @@ A onetime Avowed Brother who **departed the order many years ago** and traveled 
 - Ennic specifically wanted the party to find Vord — possibly because he knows something Ennic trusted him to share (perhaps about the Reader's compromise, the original purification rite, or the Circle)
 - A loose **southern thread** that converges with the party's existing goal of reaching Crusivar to meet [Bael Threnfall](npcs/bael-threnfall.md)
 
+## The Rite Connection (Palewater)
+- **Garrow's copy of the [Rite of Purification](items/the-rite-of-purification.md) — the *corrupted* Hollowing rite — is "transcribed after the hand of Vord."** The merciful original, the **[Rite of the Vessel](items/the-rite-of-the-vessel.md)**, is signed by **[Mortivar](npcs/eldrix-mortivar.md)** instead.
+- **Key ambiguity to resolve with him:** did Vord **corrupt** the rite, or merely **transcribe/preserve** a corrupted copy he was given (to study or to warn)? Ennic — who knew of the Reader's compromise — sent the party *to* Vord as if to an ally, which argues for the latter. His answer bears directly on whether he's a source for the **cure** or complicit in the **Hollowing**.
+
 ## Notes
 - His departure rhymes with a recurring world pattern of people leaving their orders ([Hazik](pcs/hazik.md) from the Avowed, [Klif](npcs/klif.md) from the Rangers, [Eldrix](npcs/eldrix-mortivar.md) from the Crusaders) — motive unknown
 - The **unmarked key on a chain** found in the Hollowing vault was made by the **same craftsman** as Ennic's gifts — possibly the same Avowed keysmith behind Vord's key

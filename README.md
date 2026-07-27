@@ -3,12 +3,13 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- **At [Palewater](locations/palewater.md)** — a salt-harvesting town on [Forden](locations/forden.md), a stop on the voyage to **[Crusivar](locations/crusivar.md)** aboard **[The Thornbill](locations/the-thornbill.md)**. The town was found **silenced**: ~200 living townsfolk locked in a **mass salt-pan ritual** (12 figures + a stone substance at an unbreached center). Party paused on the north dyke, about to pursue **a conscious man who lit two torches and hurried inside** — the only awake person in town.
+- **At [Palewater](locations/palewater.md)** — a salt-harvesting town on [Forden](locations/forden.md), a stop on the voyage to **[Crusivar](locations/crusivar.md)** aboard **[The Thornbill](locations/the-thornbill.md)**. The silencing was the work of **[Inquisitor-Scholar Teodric Garrow](npcs/teodric-garrow.md)**, whose **[Rite of Purification](items/the-rite-of-purification.md)** turned out to be a concealed corruption of Mortivar's merciful **[Rite of the Vessel](items/the-rite-of-the-vessel.md)** (the party decoded both, exposing exactly how the **Hollowing** is made). Garrow turned repentant and helped, but the **reversal was cut short when the tide flooded the salt pans**: most souls were freed, **~23 did not make it out**, and **Garrow was lost** (fate unknown). The party escaped the flood — **likely departing Palewater for Crusivar.** The session ended with the party able to take a **long rest** (HP, spell slots, and abilities refreshed).
 
 ## Current Goal
 - Travel to [Crusivar](locations/crusivar.md) to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the Groveborne-Crusader alliance (carry the [Broken Silver Coin](items/broken-silver-coin.md))
 - Find **[Halrick Vord](npcs/halrick-vord.md)** in Crusivar (sent by [Brother Ennic](npcs/brother-ennic.md); return [his brass key](items/avowed-brass-keys.md))
-- Read the **[Hollowing Ledger](items/the-hollowing-ledger.md)** and the Abyssal Hollowing document using **[The Reader's Lamp](items/the-readers-lamp.md)** — find whether any Hollowing was ever **reversed** (a cure for **[Draffy](pcs/danior.md)** and the [Hollowed Woman](npcs/hollowed-woman.md))
+- **MAJOR — the Hollowing is now decoded and reversible.** The paired **[Rite of the Vessel](items/the-rite-of-the-vessel.md)** (original) + **[Rite of Purification](items/the-rite-of-purification.md)** (corrupted) show exactly how the Hollowing is made *and* how to reverse it (break the ring at the NNE seam on the climbing tide; restore anchors; name the souls out last-to-first). Proven partially workable at Palewater — a **direct lead on a cure for [Draffy](pcs/danior.md)** and the [Hollowed Woman](npcs/hollowed-woman.md).
+- Still read the **[Hollowing Ledger](items/the-hollowing-ledger.md)** and the Abyssal Hollowing document with **[The Reader's Lamp](items/the-readers-lamp.md)** — corroborate the reversal and find whether any full Hollowing was ever completely undone
 - **Caution:** the Avowed leader **[Reader Sevrin](npcs/reader-sevrin.md)** is compromised (leaks to the Crusaders); **[Inquisitor Marrek](npcs/inquisitor-marrek.md)** is hunting the party
 - Determine who in the Crusaders is loyal vs. compromised; the old-saints faction may hold the **cure** (the uncorrupted purification rite)
 - The Groveborne still does not know about Wicks Hollow, Finn's death, Istren's death, or the Crusader betrayal
@@ -89,6 +90,7 @@
 - [Dessa Kell](npcs/dessa-kell.md) - harbormaster; Echo destroyed (not freed) at the mirror
 - [Corum](npcs/corum.md) - blacksmith; Echo freed by naming (the mechanic's discovery)
 - [Hen](npcs/hen.md) - potboy, the cat's favorite; Echo freed (*"freedom is sweet; but there are more"*)
+- [Teodric Garrow](npcs/teodric-garrow.md) - Inquisitor-Scholar; architect of the silencing; turned repentant, then lost in the flood (fate unknown)
 
 ## Factions
 - [Circle of the Occult](factions/circle-of-the-occult.md) - enemies of The Groveborne
@@ -107,5 +109,8 @@
 - [The Reader's Lamp](items/the-readers-lamp.md) - heirloom lamp that translates any text
 - [The Hollowing Ledger](items/the-hollowing-ledger.md) - 200-year record of every Hollowing case
 - [Avowed Brass Keys](items/avowed-brass-keys.md) - Vord's key + the unmarked vault key
+- [The Rite of the Vessel](items/the-rite-of-the-vessel.md) - Mortivar's original merciful "keep-and-return" rite (from the Candlekeep vault)
+- [The Rite of Purification](items/the-rite-of-purification.md) - the corrupted version = the Hollowing, decoded step by step
+- [Tidehold](items/tidehold.md) - Das's shortsword, enchanted by Garrow (anti-undead)
 
 ## Sessions

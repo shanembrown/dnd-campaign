@@ -67,6 +67,7 @@
   - [Dessa Kell](npcs/dessa-kell.md)
   - [Corum](npcs/corum.md)
   - [Hen](npcs/hen.md)
+  - [Inquisitor-Scholar Teodric Garrow](npcs/teodric-garrow.md)
 - **Factions**
   - [Circle of the Occult](factions/circle-of-the-occult.md)
   - [Penance Crusaders](factions/penance-crusaders.md)
@@ -83,3 +84,6 @@
   - [The Reader's Lamp](items/the-readers-lamp.md)
   - [The Hollowing Ledger](items/the-hollowing-ledger.md)
   - [Avowed Brass Keys](items/avowed-brass-keys.md)
+  - [The Rite of the Vessel](items/the-rite-of-the-vessel.md)
+  - [The Rite of Purification](items/the-rite-of-purification.md)
+  - [Tidehold](items/tidehold.md)
