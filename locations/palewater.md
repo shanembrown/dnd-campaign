@@ -44,14 +44,19 @@ The "conscious man" who lit two torches was **[Inquisitor-Scholar Teodric Garrow
 - **Harbormaster's office** — desk of **[Dessa Kell](npcs/dessa-kell.md)**; ledger of ship traffic (last entry ~1 day ago); her worn canvas coat bore a **fine, non-magical brass ship pin** (a valued personal token). Her Echo was in the **mirror** (destroyed, not freed).
 - **The forge** — smith **[Corum](npcs/corum.md)** (maker's mark on a horseshoe); iron-working tools, forge **still warm** (extinguished ~1 day ago). His Echo was in the **window** (freed by name).
 - **The net yard** — fishing-gear storage; nets in disarray, standing water. A **netmender's** grief-keepsake: **a wedding ring strung on net-thread**, inscribed **"my dear Mera."** Likely the **"fish man who walked into the ocean"** — a widower who walked into the sea when the silence came.
-- **The inn** — home of the recurring **[grey cat](npcs/the-grey-cat.md)**; **[Hen](npcs/hen.md)** the potboy's Echo was in a kitchen water-reflection (freed).
+- **The Salt Croc Inn** — home of the recurring **[grey cat](npcs/the-grey-cat.md)**; **[Hen](npcs/hen.md)** the potboy's Echo was in a kitchen water-reflection (freed). **The party stayed here the day after the Breaking** — Hen and the cat are the two familiar faces in a town otherwise back to normal.
+
+## Departure — East on the Drover's Road
+After a day recovering at the **Salt Croc Inn**, the party left Palewater **overland, heading east on the Drover's Road** *(spelling to confirm)*.
+
+- **A fairly basic road** — farmland and trees to either side. The **salt pans stay in view** as they depart: the place where ~35 people, including [Garrow](npcs/teodric-garrow.md) and the first 12, were lost.
+- ⚠️ **Note the road:** this is the **same Drover's Road** the **[salt man](npcs/the-salt-man.md)'s footprints led north on** after the silence. The party is now travelling it in the other direction.
+- ⚠️ **Open — the ship.** The party arrived aboard **[The Thornbill](locations/the-thornbill.md)** bound for [Crusivar](locations/crusivar.md). Going **overland instead** means either Merrin sailed without them, they chose the land route, or they're meeting the ship further along the coast. *Confirm with DM.*
 
 ## Open Threads
 - **The cause — RESOLVED:** Palewater was silenced by **[Garrow](npcs/teodric-garrow.md)'s [Rite of Purification](items/the-rite-of-purification.md)** (a concealed corruption of Mortivar's rite). The **conscious man** with the torches was Garrow himself.
-- **Garrow's fate — UNKNOWN.** Lost in the flood during the Breaking; not confirmed dead. Could resurface.
-- **The ~23 unsaved souls — UNKNOWN.** Did not make it out when the tide forced the party to abandon the ritual. Lost/drowned/still bound? The reversal was left **unfinished.**
-- **The first 12 + the stone substance** — the binding core behind the final wall; unclear whether they were among those released or those lost. Never fully examined.
-- **Restoration vs. release — UNCONFIRMED.** Freed souls said *"I am released"* and vanished — never verified whether living people were **restored** or souls **released to peace** (the party skipped recovering anchor-objects to catch the tide).
+- **The toll — CONFIRMED (the day after).** Lost when the tide broke in: **[Garrow](npcs/teodric-garrow.md)**, the **first 12** at the center, and **~20–23** of the remaining souls. The **stone substance** at the core went with them — never examined. Everyone else was walked out. The party spent the following day **recovering**.
+- **Restoration vs. release — ANSWERED: RESTORATION.** The day after the Breaking, **the town and its people are "remarkably back to normal"** as far as the party can tell. Despite the freed souls vanishing with *"I am released,"* the living were **returned to their bodies and their lives** — not merely released to peace. **This is the proof the reversal WORKS on the living**, and the party pulled it off **without the anchor-objects** (skipped to beat the tide), which suggests the anchors are helpful but not strictly required. *Caveat: "as far as we can tell" — surface-level observation only. Worth probing whether the restored remember the silence, lost time, or anything of where they were.*
 - **Who gave Garrow the corrupted rite** — the copy was *"transcribed after the hand of **[Vord](npcs/halrick-vord.md)**"*; never learned who handed it to Garrow (the source of the deception).
 - **The [salt man](npcs/the-salt-man.md):** a tall, salt-associated **outsider who "visits from time to time"** (per the cat); after the silence he **"went back to his house"** (left town). **Footprints led north out of town** onto the Drover's Road. Relationship to Garrow's rite unresolved.
 - **The fish man / netmender** — walked into the ocean (Mera's widower); Echo not found in town.

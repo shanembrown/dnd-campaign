@@ -1,7 +1,7 @@
 # Inquisitor-Scholar Teodric Garrow
 
 ## Status
-**MISSING — fate unknown (Palewater).** During the attempt to reverse his rite, the **climbing tide flooded the salt pans** and forced the party to abandon the ritual unfinished. **Garrow was lost in the commotion/flood — not confirmed dead.** Could resurface (drowned, swept off, or stayed behind to keep working the Breaking). ~23 souls also did not make it out.
+**LOST in the tide-breaking at Palewater.** During the attempt to reverse his rite, the **climbing tide flooded the salt pans** and forced the party to abandon the ritual unfinished. **Garrow did not make it out.** Lost alongside the **first 12** at the ritual's center and **~20–23** of the remaining souls. *(No body recovered — a resurfacing remains the DM's option, but the party is treating him as lost.)*
 
 **Turned repentant before he vanished.** After the party showed him Mortivar's merciful **[Rite of the Vessel](items/the-rite-of-the-vessel.md)** and the evidence his own rite was a concealed corruption, Garrow was left in disbelief — *"questioning his entire existence."* He **committed to helping the people** of Palewater, **offered his services**, handed over his **ledger of the 180 names**, and **enchanted Das's shortsword into [Tidehold](items/tidehold.md).** Emotionally fragile but resolved when last seen.
 

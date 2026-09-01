@@ -68,6 +68,11 @@
   - [Corum](npcs/corum.md)
   - [Hen](npcs/hen.md)
   - [Inquisitor-Scholar Teodric Garrow](npcs/teodric-garrow.md)
+  - [Reeve Ferrin](npcs/reeve-ferrin.md)
+- **The Drover's Road**
+  - [The Waystation](locations/the-waystation.md)
+  - [Jory Tinwhistle](npcs/jory-tinwhistle.md)
+  - [The Oracle](npcs/the-oracle.md)
 - **Factions**
   - [Circle of the Occult](factions/circle-of-the-occult.md)
   - [Penance Crusaders](factions/penance-crusaders.md)

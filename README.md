@@ -3,7 +3,9 @@
 [View Wiki](https://shanembrown.github.io/dnd-campaign/)
 
 ## Current Location
-- **At [Palewater](locations/palewater.md)** — a salt-harvesting town on [Forden](locations/forden.md), a stop on the voyage to **[Crusivar](locations/crusivar.md)** aboard **[The Thornbill](locations/the-thornbill.md)**. The silencing was the work of **[Inquisitor-Scholar Teodric Garrow](npcs/teodric-garrow.md)**, whose **[Rite of Purification](items/the-rite-of-purification.md)** turned out to be a concealed corruption of Mortivar's merciful **[Rite of the Vessel](items/the-rite-of-the-vessel.md)** (the party decoded both, exposing exactly how the **Hollowing** is made). Garrow turned repentant and helped, but the **reversal was cut short when the tide flooded the salt pans**: most souls were freed, **~23 did not make it out**, and **Garrow was lost** (fate unknown). The party escaped the flood — **likely departing Palewater for Crusivar.** The session ended with the party able to take a **long rest** (HP, spell slots, and abilities refreshed).
+- **At [The Waystation](locations/the-waystation.md) — less than a day from [Crusivar](locations/crusivar.md)** — travelling with **[Jory Tinwhistle](npcs/jory-tinwhistle.md)'s Travelling Wonder Show** and her walking wagon **Gertrude**. The party **joined the show as performers** (Raker = **The Lamplighter**, Das = **The Trickster**, Hazik = **The Great Mysterio**, Danior = **The Titan from the Tundra**) to **enter Crusivar undetected** — they stand out badly on Forden and **[Inquisitor Marrek](npcs/inquisitor-marrek.md) is hunting them**. After their first show, **7 Skeletons + 1 Cult Fanatic ambushed the camp — the party won**, but Jory's people cannot fight. **⚠️ Unresolved: how the Circle found them.** Also aboard Gertrude: **[The Oracle](npcs/the-oracle.md)**, a coin-operated owl automaton whose petty fortunes have proven **verifiably accurate**.
+- **Party levels to 5** at the start of next session.
+- **Palewater is resolved.** The silencing was the work of **[Inquisitor-Scholar Teodric Garrow](npcs/teodric-garrow.md)**, whose **[Rite of Purification](items/the-rite-of-purification.md)** proved to be a concealed corruption of Mortivar's merciful **[Rite of the Vessel](items/the-rite-of-the-vessel.md)** — decoding both exposed exactly how the **Hollowing** is made *and how to undo it*. The reversal was cut short when the tide flooded the salt pans: **Garrow, the first 12, and ~20–23 others were lost**, and **[Dessa Kell](npcs/dessa-kell.md)** (whose Echo was destroyed rather than named) rose among the resisting undead and did not return. **But the day after, the town and its people were "remarkably back to normal" — the freed were RESTORED, not merely released. The cure works on the living.**
 
 ## Current Goal
 - Travel to [Crusivar](locations/crusivar.md) to meet [Bael Threnfall](npcs/bael-threnfall.md) and propose reforging the Groveborne-Crusader alliance (carry the [Broken Silver Coin](items/broken-silver-coin.md))
@@ -35,7 +37,8 @@
 - [Forden](locations/forden.md) - continent to the east, Penance Crusaders homeland
   - [Candlekeep](locations/candlekeep.md) - Avowed library city on Forden (party landed, then fled)
     - [The Reaver's Tooth](locations/the-reavers-tooth.md) - port bar in Candlekeep
-  - [Palewater](locations/palewater.md) - salt-harvesting town; found silenced (mass ritual). **Current location.**
+  - [Palewater](locations/palewater.md) - salt-harvesting town; found silenced (mass ritual), then restored
+  - [The Waystation](locations/the-waystation.md) - camp on the Drover's Road, less than a day from Crusivar. **Current location.**
 - [Crusivar](locations/crusivar.md) - Penance Crusaders capital city on Forden (current destination)
 - [Crusader Keep](locations/crusader-keep.md) - Penance Crusaders stronghold in Wilden
 - [Wicks Hollow](locations/wicks-hollow.md) - abandoned village, SE Wilden
@@ -90,7 +93,12 @@
 - [Dessa Kell](npcs/dessa-kell.md) - harbormaster; Echo destroyed (not freed) at the mirror
 - [Corum](npcs/corum.md) - blacksmith; Echo freed by naming (the mechanic's discovery)
 - [Hen](npcs/hen.md) - potboy, the cat's favorite; Echo freed (*"freedom is sweet; but there are more"*)
-- [Teodric Garrow](npcs/teodric-garrow.md) - Inquisitor-Scholar; architect of the silencing; turned repentant, then lost in the flood (fate unknown)
+- [Teodric Garrow](npcs/teodric-garrow.md) - Inquisitor-Scholar; architect of the silencing; turned repentant, then lost in the flood
+- [Reeve Ferrin](npcs/reeve-ferrin.md) - town elder; de facto leader of restored Palewater (spelling TBC)
+
+### The Drover's Road
+- [Jory Tinwhistle](npcs/jory-tinwhistle.md) - proprietor of The Tinwhistle Travelling Wonder Show; walking wagon "Gertrude"
+- [The Oracle](npcs/the-oracle.md) - constantly-clicking mechanical thing on a shelf inside Gertrude
 
 ## Factions
 - [Circle of the Occult](factions/circle-of-the-occult.md) - enemies of The Groveborne
