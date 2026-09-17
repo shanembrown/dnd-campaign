@@ -36,6 +36,19 @@ A possibility worth exploring — **not yet confirmed**:
 
 **Corroboration:** [Sehir Vondrel](npcs/sehir-vondrel.md), telepathically contacting Raker aboard The Thornbill, said Krell is **an honest man**, that he **imprisoned the party for their safety**, and that **he is alone** (isolated/outnumbered within the keep). This supports the protective-custody read — though Sehir is herself an unverified source. If true, Krell is a lone honest man inside a keep that has turned, which would make him a potential ally and a figure in real danger.
 
+## ⚡ KRELL IS IN CRUSIVAR
+**[Hazik](pcs/hazik.md) and [Das](pcs/das.md) stumbled upon Krell at the central cathedral in [Crusivar](locations/crusivar.md)**, while the party was split up investigating **[the bells](locations/the-bells-of-crusivar.md)**. Session ended here.
+
+**Why this is a big moment:**
+- He is the **one Crusader two independent sources vouch for** — **[Captain Merrin](npcs/captain-merrin.md)** (*"may not be your friend, may not be your enemy"*, honest, stern, zealous) and **[Sehir Vondrel](npcs/sehir-vondrel.md)** (honest; imprisoned the party **for their safety**; **he is alone**).
+- He last saw the party as **prisoners who broke out of his stockade** and fled. **He does not know they escaped a keep that had turned, or that [Istren Vale](npcs/istren-vale.md) is dead in a betrayal** — unless he has since learned it.
+- The party is currently **in disguise under fake ash marks**, carrying the **[Hollowing Ledger](items/the-hollowing-ledger.md)**, **both rites**, and Eldrix's sealed **"M" scroll** — in the Crusader capital. If he recognises them, everything depends on which read of him is true.
+- **He reacted to the [Broken Silver Coin](items/broken-silver-coin.md)** last time. That coin is the party's alliance token and the reason they came to Crusivar at all.
+- **If the protective-custody read is right, he is the party's best possible ally inside the order** — and the one man who might be told that the **Hollowing is a Crusader rite** and actually act on it.
+- **What is he doing in the capital?** He was stationed at Crusader Keep. Either he was recalled, he fled, or he is pursuing the same betrayal the party is.
+
+**Open:** does he recognise them? Is he still alone, or has he been brought in? Does he know about **Marrek** hunting them?
+
 ## Notes
 - Party knows (but Krell may not):
   - [Istren Vale](npcs/istren-vale.md) is dead, killed in a betrayal by fellow Crusaders

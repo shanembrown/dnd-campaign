@@ -26,6 +26,13 @@ The party was **in costume, under stage names, one day from Crusivar.** Candidat
 2. **Tracked from Palewater** — where the party very publicly undid a Hollowing.
 3. **[The Oracle](npcs/the-oracle.md)'s unresolved fortune:** *"a button will betray you within the hour."* **[Gertrude](npcs/jory-tinwhistle.md) prompted [Danior](pcs/danior.md) to press a button, and "nothing happened."* The owl has been **3 for 3** on every testable prediction. **A button that summons something is a button that appears to do nothing.**
 
+## Aftermath — the Town Inn
+The party won the fight. The **innkeeper in the town here put the party up free of charge** in thanks for defending the place, and the party **took a long rest** before the final run into Crusivar.
+
+Crucially, that innkeeper gave them a name: **[Gudrun](npcs/gudrun.md)**, who works at **[The Warm Ash](locations/the-warm-ash.md)** *inside* **[Crusivar](locations/crusivar.md)** — **someone who might know more about [Brother Ennic](npcs/brother-ennic.md)**. That is now a primary lead in the capital, and a possible answer to the **unmarked [Avowed Brass Key](items/avowed-brass-keys.md)**'s unknown lock.
+
+*(Name of the town / its innkeeper: confirm with DM.)*
+
 ## Cautions
 - **A day out from Crusivar means Crusader presence is plausible** — patrols, tax men, pilgrims, or off-duty soldiers in the crowd.
 - The party is carrying the **[Hollowing Ledger](items/the-hollowing-ledger.md)**, both **[rites](items/the-rite-of-purification.md)**, Eldrix's sealed **"M" scroll**, the **[Deck of Many Things](items/deck-of-many-things.md)**, and the **[Avowed Brass Keys](items/avowed-brass-keys.md)**.
