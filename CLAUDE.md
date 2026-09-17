@@ -38,7 +38,7 @@ items/         # Notable items
 
 ## Current Campaign State
 
-- **Party Level**: 4 — **LEVELING TO 5 at the start of next session.** For Raker: proficiency → **+3** (spell save DC **14**, spell attack **+6**), **3rd-level spells unlock**, **Produce Flame → 2d8**, and the 2024 druid gains **Wild Resurgence** (convert between Wild Shape uses and 1st-level slots, once per turn).
+- **Party Level**: **5** — Raker's sheet is fully leveled in Foundry (HP 39, prof +3, spell save DC 14, spell attack +6, slots 4/3/2, 9 prepared). New: **Call Lightning**, **Dispel Magic**, **Wild Resurgence**, Produce Flame 2d8. **Circle of the Land finally configured (Temperate)** — Misty Step, Shocking Grasp, Sleep, Lightning Bolt all free on top of the 9; it had been granting nothing since level 3. One prepared slot still open. Other PCs' level-ups TBC.
 - **Party**: Raker (Druid), Danior (Cleric), Das (Fighter), Hazik (Wizard)
 - **Main Antagonist**: Eldrix Mortivar (fallen Penance Crusader; founder AND suspected leader of the Circle of the Occult, "the one who oversees all")
 - **Current Location**: **On the Drover's Road east of [Palewater](locations/palewater.md)**, travelling overland toward **[Crusivar](locations/crusivar.md)** *(what became of The Thornbill / Merrin — confirm with DM)*. At dusk they met **[Jory Tinwhistle](npcs/jory-tinwhistle.md)** and her travelling wonder show, camped beside the road in a **walking mechanical wagon named Gertrude** (currently broken).
